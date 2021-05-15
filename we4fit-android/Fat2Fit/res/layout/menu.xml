@@ -1,0 +1,103 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@color/white" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:drawableRight="@drawable/logo_resize"
+        android:layout_marginBottom="16dp"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:background="@color/greenDark" />
+    
+	<LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical">
+	    <LinearLayout
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal"
+	        android:gravity="center"
+	        android:layout_weight="0.3" >
+
+	        	 <Button
+	        	     android:id="@+id/btnAboutMe"
+	        	     style="?android:attr/buttonBarButtonStyle"
+				     android:layout_width="130dp"
+				     android:layout_height="75dp"
+	        	     android:layout_margin="2dp"
+	        	     android:background="@color/greenButton"
+	        	     android:drawableTop="@drawable/information"
+	        	     android:text="@string/aboutMe" />
+	        	 
+	        	 <Button
+			        android:id="@+id/btnAddGroup"
+			    	android:layout_width="130dp"
+			    	android:layout_height="75dp"
+			        android:drawableTop="@drawable/add_group"
+			        android:background="@color/greenButton"
+			        android:text="@string/addGroup"
+			        style="?android:attr/buttonBarButtonStyle" 
+			        android:layout_margin="2dp" />
+	    </LinearLayout>
+		<LinearLayout
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal"
+	        android:gravity="center"
+	        android:layout_weight="0.3" >
+	       	 	<Button
+				    android:id="@+id/btnFindGroup"
+				    android:layout_width="130dp"
+				    android:layout_height="75dp"
+				    android:drawableTop="@drawable/find"
+				    android:background="@color/greenButton"
+				    android:text="@string/findGroup"
+				    style="?android:attr/buttonBarButtonStyle" 
+			        android:layout_margin="2dp" />
+			
+				<Button 
+				    android:id="@+id/btnSendDish" 
+				    android:layout_width="130dp"
+				    android:layout_height="75dp"
+				    android:drawableTop="@drawable/camera"
+				    android:background="@color/greenButton"
+				    android:text="@string/sendDish"
+				    style="?android:attr/buttonBarButtonStyle" 
+			        android:layout_margin="2dp" />
+		 </LinearLayout>
+	     <LinearLayout
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal"
+	        android:gravity="center"
+	        android:layout_weight="0.3" >
+			<Button
+			    android:id="@+id/btnEvaluateDish"
+			    android:layout_width="130dp"
+			   android:layout_height="75dp"
+			    android:drawableTop="@drawable/evaluate"
+			    android:background="@color/greenButton"
+			    android:text="@string/evaluate"
+				style="?android:attr/buttonBarButtonStyle" 
+			    android:layout_margin="2dp" />
+		
+			<Button
+			    android:id="@+id/btnRankings"
+			    android:layout_width="130dp"
+			    android:layout_height="75dp"
+			    android:drawableTop="@drawable/rank"
+			    android:background="@color/greenButton"
+			    android:text="@string/rank"
+			    style="?android:attr/buttonBarButtonStyle" 
+			    android:layout_margin="2dp" />
+		</LinearLayout>
+	</LinearLayout>
+</LinearLayout>

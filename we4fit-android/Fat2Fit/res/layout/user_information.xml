@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@color/white" >
+
+     <TextView
+     android:id="@+id/textView1"
+     android:layout_width="fill_parent"
+     android:layout_height="wrap_content"
+     android:text="@string/app_name"
+     android:textColor="@color/black"
+     android:gravity="center"
+     android:drawableRight="@drawable/logo_resize"
+     android:layout_marginBottom="5dp"
+     android:textAppearance="?android:attr/textAppearanceLarge"
+     android:background="@color/greenDark" />
+
+     <LinearLayout
+         android:layout_width="match_parent"
+         android:layout_height="match_parent"
+         android:orientation="vertical" >
+
+         <RelativeLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:orientation="vertical"
+             android:layout_weight="0.2" >
+             
+             <ImageView
+                 android:contentDescription="@string/aboutMe"
+                 android:id="@+id/facebookPhoto"
+                 android:layout_marginLeft="3dp"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"/>
+
+             <TextView
+                 android:id="@+id/txtUserName"
+                 android:layout_width="fill_parent"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="3dp"
+                 android:textColor="@color/gray"
+				 android:layout_toRightOf="@id/facebookPhoto"
+				 android:background="@color/grayDetailUser"
+				 android:textAppearance="?android:attr/textAppearanceMedium" />
+             
+              <TextView
+                 android:id="@+id/txtUserBirthday"
+                 android:layout_width="fill_parent"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="3dp"
+                 android:layout_marginTop="3dp"
+                 android:textColor="@color/gray"
+				 android:layout_toRightOf="@id/facebookPhoto"
+				 android:layout_below="@id/txtUserName"
+				 android:textAppearance="?android:attr/textAppearanceMedium" />
+              
+              <TextView
+                 android:id="@+id/txtUserSex"
+                 android:layout_width="fill_parent"
+                 android:layout_height="wrap_content"
+                 android:layout_marginLeft="3dp"
+                 android:layout_marginTop="3dp"
+                 android:textColor="@color/gray"
+				 android:layout_toRightOf="@id/facebookPhoto"
+				 android:background="@color/grayDetailUser"
+				 android:layout_below="@id/txtUserBirthday"
+				 android:textAppearance="?android:attr/textAppearanceMedium" />
+
+         </RelativeLayout>
+
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:orientation="vertical" 
+             android:layout_weight="0.4" >
+
+             <TextView
+                 android:id="@+id/txtHeight"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:text="@string/height" />
+
+             <EditText
+                 android:id="@+id/editHeight"
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:ems="3"
+                 android:inputType="numberDecimal" >
+
+                 <requestFocus />
+             </EditText>
+
+             <TextView
+                 android:id="@+id/txtWeight"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:text="@string/weight"/>
+
+             <EditText
+                 android:id="@+id/editWeight"
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:ems="3"
+                 android:inputType="numberDecimal" />
+
+             <Button
+                 android:id="@+id/sendData"
+                 android:background="@color/greenButton"
+                 android:layout_width="match_parent"
+                 android:layout_marginTop="5dp"
+                 android:layout_marginLeft="5dp"
+                 android:layout_marginRight="5dp"
+                 android:layout_height="wrap_content"
+                 android:text="@string/sendInfo" />
+
+         </LinearLayout>
+         
+         <LinearLayout
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:background="@color/greenDark"
+             android:orientation="horizontal" >
+
+             <ImageButton
+                 android:contentDescription="@string/app_name"
+                 android:id="@+id/imgBtnMenu"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:background="@color/greenDark"
+                 android:layout_weight="0.3"
+                 android:src="@drawable/menu" />
+             
+             <ImageButton
+                 android:contentDescription="@string/app_name"
+                 android:id="@+id/imgBtnCamera"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:background="@color/greenDark"
+                 android:layout_weight="0.3"
+                 android:src="@drawable/camera" />
+             
+             <ImageButton
+                 android:contentDescription="@string/app_name"
+                 android:id="@+id/imgBtnEvaluate"
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:background="@color/greenDark"
+                 android:layout_weight="0.3"
+                 android:src="@drawable/evaluate" />
+
+         </LinearLayout>
+         
+     </LinearLayout>
+    
+</LinearLayout>

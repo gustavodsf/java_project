@@ -1,0 +1,36 @@
+<ui:composition template="/template/commonLayout.xhtml"
+	xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:ui="http://java.sun.com/jsf/facelets"
+	xmlns:h="http://java.sun.com/jsf/html"
+	xmlns:f="http://java.sun.com/jsf/core"
+	xmlns:p="http://primefaces.org/ui">
+	<ui:define name="content">
+		<p:growl id="messages" showDetail="true" />
+		<h:form id="professorForm">
+			<h:panelGrid id="panelProfessor" columns="2" border="1">
+				<h:outputLabel for="nomeProfessor" value="#{msgs.nome}" />
+				<p:inputText id="nomeProfessor" value="#{professorManagedBean.nomeProfessor}" />
+				<h:outputLabel for="horaAulaProfessor" value="#{msgs.horaAula}" />
+				<p:inputText id="horaAulaProfessor" value="#{professorManagedBean.valorProfessor}" />
+				<p:commandButton value="#{msgs.salvar}" id="salvaProfessor" update="messages :professorForm" actionListener="#{professorManagedBean.salvaProfessor}" styleClass="ui-priority-primary" />
+			</h:panelGrid>
+			<p:dataTable var="professorTabela" value="#{professorManagedBean.professorList}">
+				<p:column headerText="#{msgs.nome}">
+					<h:outputText value="#{professorTabela.nome}" />
+				</p:column>
+
+				<p:column headerText="#{msgs.horaAula}">
+					<h:outputText value="#{professorTabela.horaAula}" />
+				</p:column>
+				
+				<p:column style="width:32px;text-align: center">
+		            <p:commandButton update=":professorForm" icon="ui-icon-search" title="View" actionListener="#{professorManagedBean.selecionado(professorTabela)}" />
+		        </p:column>
+			</p:dataTable>
+		</h:form>
+	</ui:define>
+
+	<ui:define name="footer">
+		<h2>This is page1 Footer</h2>
+	</ui:define>
+</ui:composition>

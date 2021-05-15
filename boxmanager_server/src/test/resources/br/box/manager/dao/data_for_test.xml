@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <data data="2015-05-09" dia_da_semana="Sexta-Feira" id_data="1"/>
+    <data data="2015-05-08" dia_da_semana="Quinta-Feira" id_data="2"/>
+    <data data="2015-05-07" dia_da_semana="Quarta-Feira" id_data="3"/>
+    
+    <hora hora="10:00:00" id_hora="1"/>
+    <hora hora="9:00:00" id_hora="2"/>
+    <hora hora="15:00:00" id_hora="3"/>
+    <hora hora="05:00:00" id_hora="4"/>
+    <hora hora="07:00:00" id_hora="5"/>
+    
+    <empresa id_empresa="1" codigo="42" nome="Acari" />
+    <empresa id_empresa="2" codigo="90" nome="Algarve" />
+    <empresa id_empresa="3" codigo="48" nome="Alpha" />
+    
+    <onibus ordem="C20001"  id_onibus="1"  empresa_id="1"/>
+    <onibus ordem="C20100"  id_onibus="2"  empresa_id="1"/>
+    <onibus ordem="C20110"  id_onibus="3"  empresa_id="1"/>
+    <onibus ordem="C20150"  id_onibus="4"  empresa_id="1"/>
+    <onibus ordem="C20160"  id_onibus="5"  empresa_id="1"/>
+    <onibus ordem="C20180"  id_onibus="6"  empresa_id="1"/>
+    <onibus ordem="C20225"  id_onibus="7"  empresa_id="2"/>
+    <onibus ordem="C20188"  id_onibus="8"  empresa_id="2"/>
+    <onibus ordem="C20199"  id_onibus="9"  empresa_id="2"/>
+    <onibus ordem="C20120"  id_onibus="10" empresa_id="2"/>
+
+    <velocidade valor="50" id_velocidade="1"/>
+    <velocidade valor="60" id_velocidade="2"/>
+    <velocidade valor="45" id_velocidade="3"/>
+    <velocidade valor="40" id_velocidade="4"/>
+
+    <linha id_linha="1" codigo_linha="239" consorcio="INTERNORTE" latitude_ponto_final="-22.906435" latitude_ponto_inicial="-22.902369" longitude_ponto_final="-43.174483" longitude_ponto_inicial="-43.312558" posicao_final_nome="CASTELO (VIA 24 DE MAIO) CIRCULAR" posicao_inicial_nome="AGUA SANTA" />
+    <linha id_linha="2" codigo_linha="247" consorcio="INTERNORTE" latitude_ponto_final="-22.909217" latitude_ponto_inicial="-22.905877" longitude_ponto_final="-43.184512" longitude_ponto_inicial="-43.296465" posicao_final_nome="PASSEIO (CIRCULAR)" posicao_inicial_nome="CAMARISTA MEIER" />
+    
+    <posicao data_inclusao="2015-05-09 12:00:00" latitude="-22" longitude="-43" data_id="1" hora_id="1"  onibus_id="1" velocidade_id="1" id_posicao="1"    linha_id="1"/>
+    <posicao data_inclusao="2015-05-08 12:00:00" latitude="-22" longitude="-43" data_id="1" hora_id="2"  onibus_id="1" velocidade_id="1" id_posicao="2"    linha_id="1"/>
+    <posicao data_inclusao="2015-05-07 12:00:00" latitude="-22" longitude="-43" data_id="1" hora_id="3"  onibus_id="1" velocidade_id="1" id_posicao="3"    linha_id="1"/>
+    <posicao data_inclusao="2015-05-09 12:00:00" latitude="-22" longitude="-43" data_id="1" hora_id="1"  onibus_id="2" velocidade_id="1" id_posicao="4"    linha_id="1"/>
+    <posicao data_inclusao="2015-05-08 12:00:00" latitude="-22" longitude="-43" data_id="1" hora_id="4"  onibus_id="2" velocidade_id="1" id_posicao="5"    linha_id="1"/>
+    <posicao data_inclusao="2015-05-07 12:00:00" latitude="-22" longitude="-43" data_id="1" hora_id="5"  onibus_id="2" velocidade_id="1" id_posicao="6"    linha_id="1"/>
+    <posicao data_inclusao="2015-05-09 13:00:00" latitude="-221" longitude="-431" data_id="2" hora_id="1"  onibus_id="1" velocidade_id="1" id_posicao="7"  linha_id="2"/>
+    <posicao data_inclusao="2015-05-08 11:00:00" latitude="-221" longitude="-431" data_id="2" hora_id="2"  onibus_id="1" velocidade_id="1" id_posicao="8"  linha_id="2"/>
+    <posicao data_inclusao="2015-05-07 13:00:00" latitude="-221" longitude="-431" data_id="2" hora_id="3"  onibus_id="1" velocidade_id="1" id_posicao="9"  linha_id="2"/>
+    <posicao data_inclusao="2015-05-09 11:00:00" latitude="-221" longitude="-431" data_id="2" hora_id="1"  onibus_id="2" velocidade_id="1" id_posicao="10" linha_id="2"/>
+    <posicao data_inclusao="2015-05-08 13:00:00" latitude="-221" longitude="-431" data_id="2" hora_id="4"  onibus_id="2" velocidade_id="1" id_posicao="11" linha_id="2"/>
+    <posicao data_inclusao="2015-05-07 13:00:00" latitude="-221" longitude="-431" data_id="2" hora_id="5"  onibus_id="2" velocidade_id="1" id_posicao="12" linha_id="1"/>
+</dataset>

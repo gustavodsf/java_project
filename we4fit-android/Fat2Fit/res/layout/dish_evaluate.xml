@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@color/white" >
+    
+     <TextView
+     android:id="@+id/textView1"
+     android:layout_width="fill_parent"
+     android:layout_height="wrap_content"
+     android:text="@string/app_name"
+     android:textColor="@color/black"
+     android:gravity="center"
+     android:drawableRight="@drawable/logo_resize"
+     android:layout_marginBottom="5dp"
+     android:textAppearance="?android:attr/textAppearanceLarge"
+     android:background="@color/greenDark" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="0.6" >
+
+        <TextView
+            android:id="@+id/txtPreview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/dishToEvaluate"
+            android:textColor="@color/black"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <ImageView
+            android:contentDescription="@string/app_name"
+            android:id="@+id/imageDishEvaluate"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_weight="1.1"
+        android:background="@color/green" >
+
+        <SeekBar
+            android:id="@+id/seekBarEvaluate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:text="@string/next"
+            android:id="@+id/btnNext"
+            android:layout_marginTop="10dp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+
+
+    </LinearLayout>
+      <LinearLayout
+		   android:layout_width="match_parent"
+		   android:layout_height="wrap_content"
+		   android:background="@color/greenDark"
+		   android:orientation="horizontal" >
+	   
+	
+		    <ImageButton
+		        android:contentDescription="@string/app_name"
+		        android:id="@+id/imgBtnMenu"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:background="@color/greenDark"
+		        android:layout_weight="0.3"
+		        android:src="@drawable/menu" />
+		    
+		    <ImageButton
+		        android:contentDescription="@string/app_name"
+		        android:id="@+id/imgBtnCamera"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:background="@color/greenDark"
+		        android:layout_weight="0.3"
+		        android:src="@drawable/camera" />
+		    
+		    <ImageButton
+		        android:contentDescription="@string/app_name"
+		        android:id="@+id/imgBtnEvaluate"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:background="@color/greenDark"
+		        android:layout_weight="0.3"
+		        android:src="@drawable/evaluate" />
+		
+	</LinearLayout>
+</LinearLayout>

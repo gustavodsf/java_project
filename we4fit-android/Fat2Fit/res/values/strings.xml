@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">We4Fit</string>
+    <string name="action_settings">We4Fit</string>
+	
+    <!-- Menu -->
+    <string name="aboutMe"       >About Me     </string>
+    <string name="addGroup"      >Create Group </string>
+    <string name="findGroup"     >Find Group   </string>
+    <string name="sendDish"      >Send Dish    </string>
+    <string name="evaluate"      >Evaluate     </string>
+    <string name="rank"          >Ranking      </string>
+    
+    <string name="dishToEvaluate">Dish to Evaluate</string>
+    <string name="next">Next</string>
+    <string name="evaluateDish">Dish</string>
+    <string name="preview">Preview</string>
+    
+    <!-- Log In Facebook -->
+    <string name="get_started"> Log in</string>
+    <string name="app_id">124624457729661</string>
+    <string name="settings">Log Out</string>
+    <string name="camera">Camera</string>
+    
+    <!--  About Me -->
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="sendInfo">Send Info</string>
+    
+     <!--  Group -->
+    <string name="groupName"> Group Name</string>
+    <string name="addMeGroup"> Add me in this group</string>
+    <string name="findGroupName"> Find group by name </string>
+    <string name="selectImage">Please select image</string>
+    
+    <!--  Message -->
+    <string name="msgGetImage">Please Wait! Getting Image </string>
+    <string name="msgSendImage">Please Wait! Getting Image </string>
+    <string name="msgGetFaceInfo">Please Wait! Getting facebook profile.</string>
+    <string name="msgGetServerInfo">Please Wait! Getting We4Fit profile.</string>
+    <string name="msgSendInfo">Please Wait! Sending information to the server.</string>
+    <string name="msgSendGroup">Please Wait! Sending new group to the server.</string>
+    <string name="msgSendGroup">Please Wait! Trying to add  you to this group.</string>
+    <string name="msgSendVote">Please Wait! Sending vote to the server.</string>
+    
+    <!-- Mensagem de Erro -->
+    <string name="erroServerGetImage"> Trying to get image, but server don\'t answer. </string>
+    <string name="erroServerSendImage"> Trying to send image, but server don\'t answer. </string>
+    
+    
+    <!-- Cores  -->
+    <color name="green">#e8ffe8</color>
+    <color name="greenButton">#c7ffc7</color>
+    <color name="greenDark">#339933</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="gray">#696969</color>
+    <color name="grayDetailUser"> #D3D3D3 </color>
+    
+</resources>

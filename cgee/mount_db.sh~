@@ -1,0 +1,22 @@
+#!/bin/bash
+DIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
+cd Midia_Social/py-nlp/
+python3 main.py
+cd ${DIR}
+cd Dispendios/py-nlp/
+python3 main.py
+cd ${DIR}
+cd Fundo_setorial/py-nlp/
+python3 main.py
+cd ${DIR}
+cd Convenio/py-nlp/
+python3 main.py
+cd ${DIR}
+cd Bolsa/py-nlp/
+python3 main.py
+cd ${DIR}
+cd Producao/py-nlp/
+python3 main.py
+cd ${DIR}
+
+

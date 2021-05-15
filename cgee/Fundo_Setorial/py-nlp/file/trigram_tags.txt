@@ -1,0 +1,4 @@
+_n,_adj,_conj-c,_adj
+_n,_n,_n
+_n,_prp,_n,_prp,_n
+_n,_adj,_prp,_adj

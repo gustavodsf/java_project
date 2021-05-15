@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tx="http://www.springframework.org/schema/tx"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd
+							http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.0.xsd
+						    http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-3.0.xsd">
+
+
+	<context:component-scan base-package="org.cgee.aquarius.*" />
+	<context:annotation-config />
+	<context:spring-configured />
+
+	<!-- Configure JDBC Connection -->
+	<bean name="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+	    <property name="driverClassName" value="com.mysql.jdbc.Driver" />
+	    <property name="url" value="jdbc:mysql://localhost/pgstag_coppe" />
+	    <property name="username" value="aquarius_web" />
+	    <property name="password" value="aquarius_web" />
+	</bean>
+
+
+	<!-- Configure Hibernate 4 Session Facotry -->
+	<bean id="SessionFactory" class="org.springframework.orm.hibernate4.LocalSessionFactoryBean">
+
+		<property name="dataSource">
+			<ref bean="dataSource" />
+		</property>
+
+		<property name="hibernateProperties">
+			<props>
+				<prop key="hibernate.dialect">org.hibernate.dialect.MySQLDialect</prop>
+				<prop key="hibernate.show_sql">true</prop>
+				<prop key="hibernate.hbm2ddl.auto">update</prop>
+			</props>
+		</property>
+		 <property name="annotatedClasses">
+            <list>
+            		<value>org.cgee.aquarius.model.StemBolsa</value>
+            		<value>org.cgee.aquarius.model.StemConvenio</value>
+            		<value>org.cgee.aquarius.model.StemDespesas</value>
+            		<value>org.cgee.aquarius.model.StemFundoSetorial</value>
+            		<value>org.cgee.aquarius.model.StemMidiaSocial</value>
+					<value>org.cgee.aquarius.model.StemProducao</value>
+					<value>org.cgee.aquarius.model.TermBolsa</value>
+					<value>org.cgee.aquarius.model.TermConvenio</value>
+					<value>org.cgee.aquarius.model.TermDespesas</value>
+					<value>org.cgee.aquarius.model.TermFundoSetorial</value>
+					<value>org.cgee.aquarius.model.TermMidiaSocial</value>
+					<value>org.cgee.aquarius.model.TermProducao</value>
+					<value>org.cgee.aquarius.model.TermHasOrigemBolsa</value>
+					<value>org.cgee.aquarius.model.TermHasOrigemConvenio</value>
+					<value>org.cgee.aquarius.model.TermHasOrigemDespesas</value>
+					<value>org.cgee.aquarius.model.TermHasOrigemFundoSetorial</value>
+					<value>org.cgee.aquarius.model.TermHasOrigemMidiaSocial</value>
+					<value>org.cgee.aquarius.model.TermHasOrigemProducao</value>
+					<value>org.cgee.aquarius.model.OrigemBolsa</value>
+					<value>org.cgee.aquarius.model.OrigemConvenio</value>
+					<value>org.cgee.aquarius.model.OrigemDespesas</value>
+					<value>org.cgee.aquarius.model.OrigemFundoSetorial</value>
+					<value>org.cgee.aquarius.model.OrigemMidiaSocial</value>
+					<value>org.cgee.aquarius.model.OrigemProducao</value>
+            </list>
+      	</property>
+	</bean>
+
+	
+	<bean id="transactionManager" class="org.springframework.orm.hibernate4.HibernateTransactionManager">
+	    <property name="sessionFactory" ref="SessionFactory"></property>
+	</bean>
+	 
+	<tx:annotation-driven transaction-manager="transactionManager" />
+	<!--  DAO -->
+	<bean id="origemDAOBolsa" class="org.cgee.aquarius.dao.OrigemDAOBolsa" >
+		<property name="sessionFactory" ref="SessionFactory"/>
+    </bean>
+    <bean id="origemDAOConvenio" class="org.cgee.aquarius.dao.OrigemDAOConvenio" >
+		<property name="sessionFactory" ref="SessionFactory"/>
+    </bean>
+    <bean id="origemDAODepesas" class="org.cgee.aquarius.dao.OrigemDAODespesas" >
+		<property name="sessionFactory" ref="SessionFactory"/>
+    </bean>
+    <bean id="origemDAOFundoSetorial" class="org.cgee.aquarius.dao.OrigemDAOFundoSetorial" >
+		<property name="sessionFactory" ref="SessionFactory"/>
+    </bean>
+    <bean id="origemDAOMidiaSocial" class="org.cgee.aquarius.dao.OrigemDAOMidiaSocial" >
+		<property name="sessionFactory" ref="SessionFactory"/>
+    </bean>
+    <bean id="origemDAOProducao" class="org.cgee.aquarius.dao.OrigemDAOProducao" >
+		<property name="sessionFactory" ref="SessionFactory"/>
+    </bean>
+	
+	<bean id="stemDAOBolsa" class="org.cgee.aquarius.dao.StemDAOBolsa" >
+		<property name="sessionFactory" ref="SessionFactory"/>
+    </bean>
+ 
+ 	<bean id="stemDAOConvenio" class="org.cgee.aquarius.dao.StemDAOConvenio" >
+		<property name="sessionFactory" ref="SessionFactory"/>
+    </bean>
+    
+   	<bean id="stemDAODespesas" class="org.cgee.aquarius.dao.StemDAODespesas" >
+		<property name="sessionFactory" ref="SessionFactory"/>
+    </bean>
+    
+    <bean id="stemDAOFundoSetorial" class="org.cgee.aquarius.dao.StemDAOFundoSetorial" >
+		<property name="sessionFactory" ref="SessionFactory"/>
+    </bean>
+    
+    <bean id="stemDAOMidiaSocial" class="org.cgee.aquarius.dao.StemDAOMidiaSocial" >
+		<property name="sessionFactory" ref="SessionFactory"/>
+    </bean>
+    
+    <bean id="stemDAOProducao" class="org.cgee.aquarius.dao.StemDAOProducao" >
+		<property name="sessionFactory" ref="SessionFactory"/>
+    </bean>
+ 
+	<bean id="termDAOBolsa" class="org.cgee.aquarius.dao.TermDAOBolsa" >
+		<property name="sessionFactory" ref="SessionFactory"/>
+    </bean>
+    <bean id="termDAOConvenio" class="org.cgee.aquarius.dao.TermDAOConvenio" >
+		<property name="sessionFactory" ref="SessionFactory"/>
+    </bean>
+    <bean id="termDAODespesas" class="org.cgee.aquarius.dao.TermDAODespesas" >
+		<property name="sessionFactory" ref="SessionFactory"/>
+    </bean>
+    <bean id="termDAOFundoSetorial" class="org.cgee.aquarius.dao.TermDAOFundoSetorial" >
+		<property name="sessionFactory" ref="SessionFactory"/>
+    </bean>
+    <bean id="termDAOMidiaSocial" class="org.cgee.aquarius.dao.TermDAOMidiaSocial" >
+		<property name="sessionFactory" ref="SessionFactory"/>
+    </bean>
+    <bean id="termDAOProducao" class="org.cgee.aquarius.dao.TermDAOProducao" >
+		<property name="sessionFactory" ref="SessionFactory"/>
+    </bean>
+</beans>

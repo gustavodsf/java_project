@@ -1,0 +1,2312 @@
+ctbiotecnologiamctcnpq 582005;1644;56;bigram
+tematicos;1748;24;word
+0282004;404;58;word
+inpe;2161;11;word
+392008;794;254;word
+392009;1496;28;word
+edital 062008;604;554;bigram
+ctenergmmecnpq;589;124;word
+edital 292009 tema;904;43;triGram
+destinados;1615;31;word
+agregação de valor para produtos;368;158;triGram
+cthidromctcnpq 372005 ecorregiões;1579;92;triGram
+cnpq 472008;800;43;bigram
+012002;7;5147;word
+mctcnpqcthidroctinfra;1846;32;word
+empresas 072008;1861;234;bigram
+integrado;681;56;word
+campi 052006;1982;982;bigram
+regional;1604;1079;word
+biotecnologia;513;780;word
+espacial;951;272;word
+052010 linha;1086;277;bigram
+amarelo 252009 circuitos;883;16;triGram
+mctcnpqcthidro 372006;1295;89;bigram
+demonstrativos;2207;20;word
+metrologia;425;60;word
+mctcnpqcthidrompa;1764;67;word
+cultivo;444;43;word
+basica;203;92;word
+archer de apoio;2036;68;bigram
+462009 linha 2;1313;158;triGram
+462009 linha 1;998;139;triGram
+biomassa;290;35;word
+282008 culturas;745;113;bigram
+3 projetos;609;871;bigram
+segurança;1127;331;word
+142005 formacao;664;76;bigram
+linha 1 etanol;999;139;triGram
+jovens;126;989;word
+edital 062007;1736;18;bigram
+2009 ai;1701;2;bigram
+502008 linha;1904;42;bigram
+cnpqctpetro;1118;370;word
+2001 sustentabilidade;2026;3;bigram
+072010;993;1299;word
+perdas;580;16;word
+renato;2040;68;word
+2 hidrogenio;1802;122;bigram
+nº 112011;2260;8;bigram
+ctenergcnpq 012003;458;159;bigram
+bioativos e vacinais;1360;4;bigram
+locais 012004;2005;489;bigram
+catadores;546;365;word
+oferta por capacitação;2280;8;bigram
+eventos;129;5100;word
+edicoes;629;147;word
+apoio em edicoes;621;147;bigram
+nº 062011;2171;250;bigram
+mctcnpqctagronegocio 172010 cadeia;920;72;triGram
+482006 edital 482006;1325;15;triGram
+finep 012002 solicitação;1630;211;triGram
+172010;924;72;word
+acesso;152;236;word
+linha;198;6976;word
+criação de estruturas;1592;10;bigram
+água e águas;1240;34;bigram
+manutenção de equipamentos;461;21;bigram
+economica;487;95;word
+272008;817;238;word
+1 transição;531;201;bigram
+ctenergcnpqproset 022003;934;61;bigram
+manutenção de animais para pesquisa;1607;31;triGram
+cthidro 2010;1730;2;bigram
+0212009 tecnologias;872;46;bigram
+mctcnpqcthidro 482006;1328;55;bigram
+ctaero;1826;200;word
+estruturantes de cti;2008;521;bigram
+cthidromctcnpq 152005;1932;93;bigram
+combustão;639;112;word
+tele;24;41;word
+aquaviário;1457;302;word
+desenvolvimento de banco de dados;1897;2;triGram
+edital 222010 tema;1191;447;triGram
+ciências;2065;855;word
+prumofinep 2004;1142;287;bigram
+vertical de projeto;392;11397;bigram
+mctcnpqctsaude 182006;707;182;bigram
+222005;1613;31;word
+222006;914;20;word
+222007;311;298;word
+mctcnpqaeb;947;272;word
+292009 tema;250;158;bigram
+mctcnpqctbioctsaudemssctiedecit 202007 bioinova;321;170;triGram
+1999;1400;196;word
+temas;245;1452;word
+232008;471;198;word
+cooperativos;960;3176;word
+ambientais;715;182;word
+hidrodinâmica;1244;34;word
+232007;1595;10;word
+capacitação de recursos;1173;53;bigram
+empresa 032006 nov2007;2045;35;triGram
+0272004;1761;64;word
+ctenergia;183;479;word
+india;2194;14;word
+programa de revitalização;828;245;bigram
+bolsas;1660;154;word
+desenvolvimento para producao de biodiesel;1945;2;triGram
+centros de recursos;2120;260;bigram
+hidroeletricas;1276;42;word
+uso de biodiesel;1267;118;bigram
+seleção;1348;69;word
+582005 nanociencia;1645;56;bigram
+022001 chamada;660;40;bigram
+382007 estudos;1711;104;bigram
+plano de acao;983;20;bigram
+mctcnpq 462008 processo;291;87;triGram
+amazonica;1154;63;word
+aperfeiçoamento;1835;21;word
+voltados;2234;20;word
+mctcnpqctinfra 032003;2295;2;bigram
+692009;1870;20;word
+projetos com valor;697;392;bigram
+352007 uso;915;221;bigram
+mctcnpqctinfo 142007 programa;221;66;triGram
+0222004 tema;143;646;bigram
+edital 082010;1067;36;bigram
+202005 disponibilização;528;274;bigram
+vacinais;1364;4;word
+meteorologia 132006;1690;498;bigram
+estudos de arp;1915;8;bigram
+cthidro 012001;680;199;bigram
+mctcnpqctagronegociomda 232008 programa;467;198;triGram
+archer de apoio a pesquisa;2033;68;triGram
+geracao;1428;4;word
+grupo de pesquisa;619;147;bigram
+072006 apoio;491;212;bigram
+infraestrutura;48;5709;word
+012008 linha 1;2080;172;triGram
+012008 linha 2;2094;252;triGram
+r2000001;2184;1192;word
+ctenergia 2002;2285;13;bigram
+032006 nov2007;2046;35;bigram
+322009;1901;10;word
+programas de pósgraduação;492;212;bigram
+apoio a eventos;327;1478;bigram
+meccapesmctcnpqfinep 342007;607;1079;bigram
+1 grupos;118;155;bigram
+apoio a pesquisa em relações;2034;68;triGram
+mctcnpq 072006 apoio;488;212;triGram
+cthidroprosabmctfinep 012003;1165;646;bigram
+tecnologia de cultivo;442;43;bigram
+utilizacao;485;206;word
+312009 tema 1;1306;54;triGram
+302007 desenvolvimento;2076;18;bigram
+mctmpafinepctagroinovação;1451;745;word
+aeroportos;2050;163;word
+edital 372010;1235;24;bigram
+ctagronegocio 2003;2268;31;bigram
+0312004;390;416;word
+0302004;1073;130;word
+brasileira;561;645;word
+mctcnpq 082005 desenvolvimento;474;111;triGram
+vertical de infraestrutura;1707;488;bigram
+catadores de materiais;541;263;bigram
+2000001;109;3717;word
+2000000;20;13560;word
+cursos para formação de rh;1472;25;triGram
+animais para pesquisa;1611;31;bigram
+2 cursos presenciais;1831;21;triGram
+2 seleção;1346;13;bigram
+edital 262009;1906;4;bigram
+olimpiadas;2251;2;word
+cadeia de recicláveis;1061;57;bigram
+cadeia de desenvolvimento de fármacos;1589;10;triGram
+tecnologias em microeletrônica;225;67;bigram
+extremos;2018;790;word
+mctfinepação;42;2416;word
+pesquisadores;127;986;word
+projetos em rede;2134;42;bigram
+tema 4 melhoria;795;102;triGram
+332006 combustão;636;112;bigram
+262008;1369;57;word
+262009;1907;4;word
+grupos de pesquisas;610;871;bigram
+ordenamento;1766;67;word
+urbano;353;189;word
+biocombustiveis;1262;72;word
+5000000;50;8655;word
+5000001;896;1880;word
+mctcnpqcthidro 022003 apoio;75;110;triGram
+cthidromctcnpq 132005 hidrossedimentologia;1077;79;triGram
+112007 extensão;565;161;bigram
+idoso;1520;12;word
+ctpetro;46;7915;word
+1apoio;1910;12;word
+internacionais;2043;68;word
+jun2007;2166;7;word
+geodinâmica 012005;1980;173;bigram
+mctcnpqcthidrommami 352006;826;245;bigram
+072008;240;929;word
+12009;1767;511;word
+072007;824;714;word
+nanotecnologias e materias;411;167;bigram
+072005;596;741;word
+072004;1524;1192;word
+tempo 042008;2088;1073;bigram
+ctsaudemctmscnpq;1072;130;word
+ctaeronáutico;1652;663;word
+grade;2141;192;word
+ctbiotecnologiamctcnpqmssctiedecit 242005;192;154;bigram
+institutos 032004;1565;658;bigram
+mctcnpqfndctmeccapesfaps;1444;99;word
+agro;160;38;word
+cursos de aperfeicoamento a distancia;1283;11;triGram
+062005 linha;1052;905;bigram
+formação;770;109;word
+amarelo 252009;885;16;bigram
+012010;364;2967;word
+consumo de produtos;2227;73;bigram
+ctenergia 012001;181;439;bigram
+172010 cadeia;922;72;bigram
+rh em areas;946;272;bigram
+cthidro 2001;1396;4;bigram
+cthidro 2000;1076;30;bigram
+cthidro 2003;2059;3;bigram
+agregacao;150;185;word
+3 pesquisa;1721;37;bigram
+692009 microrganismos;1869;20;bigram
+projetos de pesquisa;758;16791;bigram
+fundações;2106;6;word
+rh em biotecnologia;1478;49;bigram
+592009;1867;24;word
+diagnósticos;1514;1123;word
+662010 programa;1791;34;bigram
+mctcnpqctbiocbab 312008 cursos;1471;25;triGram
+mctcnpq 182009 pdi;1053;86;triGram
+142010;36;6415;word
+142011;2178;3930;word
+fase 1 prospecção;563;109;triGram
+produtos e acesso;146;236;bigram
+ctagronegocios;1121;105;word
+482006 edital;1329;15;bigram
+cnpqmicinn;1799;30;word
+caracterização;1628;34;word
+tema b;1195;143;bigram
+competitivos;2318;40;word
+empresa 032006 jan2008;1878;54;triGram
+142011 faixa b;2180;1192;triGram
+incubadoras;858;2118;word
+fundamentais;1600;10;word
+cnpq 012002;422;279;bigram
+222010;1196;447;word
+20000000;116;133;word
+572008 categoria;503;301;bigram
+papesfiocruz;1311;8;word
+escritórios;1971;46;word
+mctfinep ação;188;7122;bigram
+vinculado;625;147;word
+educacionais;997;285;word
+edital 592008;1918;20;bigram
+programa;176;4139;word
+biotecnológicas;1829;106;word
+0012003 apoio;2233;9;bigram
+662009;1489;55;word
+próinova;1678;378;word
+alimentos;1877;85;word
+formacao de rh em biotecnologia;1883;24;triGram
+102004 bolsas;1656;154;bigram
+equipamento;189;1309;word
+tema 4;399;136;bigram
+tema 2 agregacao;142;185;triGram
+tema 1;530;1255;bigram
+tema 3;542;172;bigram
+tema 2;61;988;bigram
+672009;1134;100;word
+edital 482010;897;94;bigram
+200920102011;2205;4;word
+médicos;1688;167;word
+2500000;700;163;word
+tecn;1675;609;word
+programa de disseminação;224;67;bigram
+022003 tema;440;105;bigram
+502010 identificacao;2244;20;bigram
+climatologia e meteorologia;1089;80;bigram
+mctfinep ciência;1459;1156;bigram
+mctcnpqctinfo 012003;426;111;bigram
+laboratorial;1670;158;word
+tema 2 tecnologias;249;115;triGram
+igrh;2092;339;word
+assistivas;1189;516;word
+cthidro 012010;1985;900;bigram
+animais;1616;31;word
+cursos de aperfeicoamento;1286;11;bigram
+112011 cbab;2261;8;bigram
+pesquisafaps;2107;6;word
+1999 a 2004;1399;52;bigram
+edital 512010 abrangencia;1197;188;triGram
+cooperacao em projetos;1237;12;bigram
+barragens 022005;1126;217;bigram
+332008 saude;740;208;bigram
+programa de posgraduacao;620;147;bigram
+2008 apq;1546;15;bigram
+vertical de projeto de pesquisa;391;11397;triGram
+preservacao e pesquisa;2297;2;bigram
+empresa 032006 out2007;2124;7;triGram
+mctcnpq 412008;860;36;bigram
+nanotecnologias;413;167;word
+ctagromctmdacnpq 202005;527;274;bigram
+352006;831;245;word
+352007;918;221;word
+mctcnpqcthidroctsaude 452008 água;515;182;triGram
+352008;505;75;word
+pditi;457;1285;word
+mctcnpqctagronegociocthidro;816;238;word
+cooperação;1036;4581;word
+cttransporte;420;57;word
+0242004;1255;123;word
+papesfiocruz papes;1310;8;bigram
+diagnóstico;1536;79;word
+422010 diabetes;936;32;bigram
+ctenergmctcnpq 0292004 categoria;427;81;triGram
+392006 taxonomia;963;93;bigram
+hidricos;737;162;word
+pesqueiros;1342;57;word
+caprinos e ovinos;923;72;bigram
+recicláveis;548;277;word
+032009;1774;615;word
+092010;1409;898;word
+032008;2093;361;word
+taxonomia de organismos;964;93;bigram
+oferta;2282;8;word
+telessaúde e telemedicina;1665;349;bigram
+desenvolvimento para capacitação;174;664;bigram
+pesquisador;1464;251;word
+472006;262;56;word
+mctcnpqctsaudemssctiedecit 332008;739;208;bigram
+032000;2098;58;word
+fármacos;1373;446;word
+472008;804;77;word
+tecnologias para reducao;479;111;bigram
+472008 caracterização;1622;34;bigram
+mctcnpqctsaudemssctiedecit;504;593;word
+manutenção de animais;1610;31;bigram
+alimentação;678;77;word
+capacitação em hidrometria para gestão;1293;89;triGram
+empresa 032006 set2007;2128;21;triGram
+faperj;1425;4;word
+mctcnpqctagronegocioacao;1948;2;word
+edital 372010 cplp;1233;24;triGram
+edital 332009;2289;4;bigram
+mctcnpqctsaude 0012003 projetos;755;110;triGram
+inclusão;352;698;word
+432010 recesa;1752;6;bigram
+mctcnpqctagronegocio;749;183;word
+acoes de defesa;1178;2;bigram
+reflora;1446;136;word
+mctcnpqctsaudemssctiedecit 362008 hipertensao;1991;7;triGram
+1 prospecção;567;109;bigram
+5000100;87;2428;word
+memoria cientifica e tecnologica;2294;2;triGram
+plantas;844;212;word
+2 agregação;371;209;bigram
+0282004 tema 3;2151;12;triGram
+0282004 tema 2;1344;13;triGram
+telessaúde;1667;349;word
+0282004 tema 4;396;34;triGram
+tóxicos;714;182;word
+cnpqctpetro 012000;1116;370;bigram
+desenvolvimento para producao;1946;2;bigram
+formação e fixação;766;82;bigram
+medicamentos 042010;1372;284;bigram
+redes de projetos;1747;24;bigram
+682008;1890;10;word
+sustentabilidade;721;127;word
+mctcnpqctbiocbab 312008;1474;25;bigram
+2 capacitação;1523;576;bigram
+012009;1322;2057;word
+012008;1775;8851;word
+392006;965;93;word
+392007;980;352;word
+012005;1147;10887;word
+012004;1043;10210;word
+012007;1606;6658;word
+012006;247;7489;word
+012001;184;2206;word
+012000;1119;430;word
+012003;11;6271;word
+mctmdsfinep;1042;246;word
+utilizacao de residuos;481;111;bigram
+centros de tecnologia;2163;107;bigram
+mctcnpqctbioctsaudemssctiedecit 202007;322;170;bigram
+edital 512010;1198;188;bigram
+preservacao;2298;2;word
+exterior;1338;15;word
+alimentar;1163;196;word
+mctcnpqctinfo 112007 extensão;562;161;triGram
+gestores em recursos;2111;91;bigram
+espontanea 102003;1568;2;bigram
+valor para produtos;373;158;bigram
+462008 processo;295;87;bigram
+142009;35;5660;word
+142008;55;5082;word
+200920102011 apq;2204;4;bigram
+mctcnpqctinfo 072007;823;504;bigram
+monoclonais;1941;2;word
+142007;227;67;word
+142006;2019;790;word
+142005;667;76;word
+equipamentos para diagnóstico;1533;71;bigram
+espanha;1800;30;word
+bicudo;903;2;word
+livre;1529;392;word
+ambientes;722;46;word
+projetos de empresas;1647;36;bigram
+mctcnpqctsaudemssctiedecit 672009;1132;100;bigram
+biotérios;1614;137;word
+biodiesel 112005;2136;200;bigram
+infancia;1855;10;word
+122010;2284;19;word
+ctenerg;867;2713;word
+campi;1603;2658;word
+mctcnpqcthidroctagro;348;163;word
+nº 282010 linha;1411;577;triGram
+microeletrônica;229;469;word
+rede malaria;1101;24;bigram
+r2000000;2179;2118;word
+espirito;1228;19;word
+mctmsfinep;1512;2390;word
+ctmineralmctcnpq 422005 ação;1170;53;triGram
+maximo;699;608;word
+academia;1563;18;word
+estuarinos e zonas;1242;34;bigram
+telemedicina 012010;1666;349;bigram
+ct 2005;2096;447;bigram
+062005 linha 3;2066;368;triGram
+062005 linha 2;2114;15;triGram
+062005 linha 1;1051;522;triGram
+alternativas;559;355;word
+mctcnpqctbiotec;1447;87;word
+mctcnpqctsaude 242007 equipamentos;1530;71;triGram
+662010;1793;34;word
+112005 at;1587;127;bigram
+realizacao de visitas;1738;36;bigram
+552008 amazônia;277;688;bigram
+gestão;549;962;word
+mctcnpq 0312004;388;416;bigram
+condições;799;102;word
+présal;1809;256;word
+mctcnpqctinfraseappr;1340;57;word
+edital 482006;1330;15;bigram
+edital 482008;1430;22;bigram
+212010;1448;26;word
+esporte;2055;396;word
+formacao de redes;1746;24;bigram
+solicitação;1633;211;word
+grupos em consolidação;943;134;bigram
+edital 262010;1438;216;bigram
+meteorologia;1094;578;word
+pnicnpq 022003;854;242;bigram
+2 biodiesel;1315;158;bigram
+avançados;415;167;word
+municipal;1202;126;word
+distância em nivel;2189;8;bigram
+culturas;751;113;word
+projetos de cursos;1285;11;bigram
+mctcnpqctagrocthidromapasdcspae 442008;802;254;bigram
+mctcnpqctpetro 392009;1494;28;bigram
+gestão de incubadoras de empresas;853;368;triGram
+área de recursos;944;222;bigram
+habitação;1843;1084;word
+organizacao de escritorios;929;58;bigram
+1 serviços;2062;376;bigram
+bolsa;1569;2;word
+412008 cbab;861;36;bigram
+edital 192009;910;56;bigram
+112002 programa;171;664;bigram
+pesquisas;264;899;word
+dengue;635;136;word
+nº 622008;124;516;bigram
+642009 espacos;214;207;bigram
+carvao;1279;57;word
+032006 mai2007;2306;3;bigram
+mctcnpqctbiotecnologiactsaudemssctiedecit;510;508;word
+acao;614;1517;word
+hidrogenio;1803;122;word
+ago2005;1550;323;word
+242005 linha;1108;62;bigram
+anticorpos;1762;292;word
+mctfinep 012003;1528;1317;bigram
+442008 recuperacao;803;254;bigram
+nacionais;1598;10;word
+ctmineralmctcnpq 422005;1171;53;bigram
+bolsas de produtividade;1657;154;bigram
+352010;1220;367;word
+apoio 121;309;298;bigram
+águas;1246;197;word
+fapesp;1424;4;word
+mctcnpqctbiocbab;1480;49;word
+congressos;1978;6;word
+carta;28;6784;word
+mctcnpq 082007;1095;167;bigram
+mctcnpq 082005;476;111;bigram
+multiusuários;190;4206;word
+organizacao;930;58;word
+aumento;820;238;word
+edital 522008;725;44;bigram
+1 cadeia;1264;118;bigram
+082009;104;47;word
+482008;1433;22;word
+482006;1334;74;word
+082004;1187;785;word
+082005;483;632;word
+082006;1515;1136;word
+082007;1096;929;word
+092005;1190;497;word
+092007;933;480;word
+092006;1207;708;word
+mudanca de titularidade;1936;2;bigram
+092009;1102;24;word
+préclínica;1281;34;word
+cnpq 0252004;1122;46;bigram
+162008 casadinho;617;319;bigram
+032006 linha;1557;1040;bigram
+2008 subvenção;1787;15;bigram
+ctagrocthidromctcnpq;63;544;word
+combustão e gaseificação;637;112;bigram
+ctamazoniamctcnpq;120;264;word
+tecnologia;362;3374;word
+transversalctamazoniactbiotec;1488;55;word
+bioinova;326;170;word
+extensao;65;245;word
+mctfinepfndctsubv;1321;2308;word
+rbtmctfinep;1750;202;word
+332010 formacao;945;272;bigram
+edital 202009;284;92;bigram
+012002 proset;154;416;bigram
+tema 1 processos;717;422;triGram
+2 carvao;1278;57;bigram
+ctagronegocio 2005;2079;3;bigram
+402004;2237;2;word
+402007;2102;43;word
+cnpqctpetroctamazoniactinfoctaquaviario;1231;119;word
+convenios;984;22;word
+402008;164;189;word
+402009;1888;24;word
+13 pd;423;60;bigram
+humanos;670;554;word
+regiões;1353;13;word
+042003;1974;543;word
+associados;586;139;word
+laboratórios de pesquisas em cianotoxinas;257;28;triGram
+laboratórios de pesquisas;260;28;bigram
+verde;521;286;word
+oepas 082010;40;508;bigram
+solar;1113;52;word
+proafrica;1011;112;word
+evte;1573;240;word
+mctfinep 012004;1856;130;bigram
+mctcnpqctinfo 112007;564;161;bigram
+difusão e popularização;358;1172;bigram
+gerenciamento de recursos;735;71;bigram
+soja;1714;104;word
+012002 solicitação;1631;211;bigram
+mctcnpqctinfractfva;2038;68;word
+mctcnpq 422007;657;424;bigram
+previsao de respostas;1723;37;bigram
+área 3 biotecnologia;2266;27;triGram
+542009;1852;10;word
+cti 082005;2009;521;bigram
+fapemig;1422;4;word
+052008;2301;2;word
+construção naval e transporte;1455;302;triGram
+formacao de rh;1887;24;bigram
+mctcnpqctsaudemssctiedecit 0572009;1957;2;bigram
+microalgas;1370;57;word
+ctsaúdefns;1789;171;word
+3 ate;1756;35;bigram
+fixação de recursos;767;249;bigram
+bens de capital;2072;99;bigram
+022008;1769;1158;word
+022009;1830;106;word
+022002;760;3224;word
+022003;81;2786;word
+doenças;645;167;word
+022001;661;654;word
+022006;74;2485;word
+022007;1790;644;word
+022004;1145;2647;word
+022005;1129;394;word
+promoção de eventos;1542;44;bigram
+transportes;1058;86;word
+estabelecimento de padrões;314;102;bigram
+médicohospitalar;1538;71;word
+012009 área 2;1805;88;triGram
+petróleo;339;382;word
+ctmineralmctcnpq;1174;139;word
+obras;1407;496;word
+mctcnpq 292005 programa;1551;199;triGram
+recuperacao;808;254;word
+bambu;1990;58;word
+052004;2146;88;word
+062008 faixa b;603;221;triGram
+animais para pesquisa em cti;1608;31;triGram
+finep 022002;1359;582;bigram
+r2000001 a r5000000;2183;1192;bigram
+emergentes;446;179;word
+622008;125;516;word
+ago2007;1964;50;word
+eolica;1280;70;word
+geologica;1152;63;word
+desenvolvimento de tecnologias para reducao;475;111;triGram
+122009;1355;47;word
+122008;1358;58;word
+exploracao;1151;63;word
+vegetal;1874;20;word
+122005;1374;551;word
+rede nordeste;508;508;bigram
+122007;1403;1758;word
+122006;359;1312;word
+bid 880;2248;3;bigram
+prumofinep;1143;287;word
+etapa 2;1517;12;bigram
+finlandia;1564;18;word
+mctfinepmssctie;1862;234;word
+pnpd;613;1079;word
+categoria 1 projetos;1018;229;triGram
+ae 122007;2288;4;bigram
+2 apoio;1007;373;bigram
+linha de ação;1626;34;bigram
+infraestrutura 012006;1098;255;bigram
+infraestrutura 012005;2117;179;bigram
+ctenergcnpq;459;378;word
+caprinos;925;72;word
+ctsaude;23;89;word
+peld;1868;24;word
+mctcnpqctagroctbiotec;1492;55;word
+dendê;1350;25;word
+ctamazoniactagroctfva;402;59;word
+212008;2239;3;word
+1997;2308;2;word
+fármacos e medicamentos;1371;294;bigram
+mctcnpqcthidro 372006 capacitação;1292;89;triGram
+212005;1252;229;word
+capacitacao;950;443;word
+3 propostas;2132;42;bigram
+agentes;713;273;word
+disponibilização de tecnologias;238;977;bigram
+1 apoio;1737;68;bigram
+funcional;1394;294;word
+obras mctfinep;1405;496;bigram
+faixa d;1155;155;bigram
+faixa b;140;4859;bigram
+encomendas;159;221;word
+pnicnpq;857;368;word
+abrangencia;1201;188;word
+5 defesa;1684;119;bigram
+edital 412010;1210;74;bigram
+respostas;1726;37;word
+242009 redes;1378;14;bigram
+272010;1778;61;word
+biomateriais;1689;167;word
+hidrometria para gestão;1298;89;bigram
+nanotecnologia;128;1576;word
+participação de pesquisadores em visitas;1327;9;triGram
+ctmineralmctcnpq 0272004;1758;64;bigram
+cadeia de desenvolvimento;1593;10;bigram
+umidas;138;131;word
+barragens;1128;217;word
+prospecção de demanda;568;109;bigram
+eficiente;682;56;word
+182009 pdi;1055;86;bigram
+edital 322009;1911;8;bigram
+ctinfo;389;3181;word
+mctcnpqctagroctbio 392007 tecnologias;973;352;triGram
+inovação em tecnologia;453;781;bigram
+cooperativas;387;363;word
+mctcnpqctinfo;226;843;word
+inovação 062006;1504;1062;bigram
+área 2 energia;2275;39;triGram
+mctfinep 022003;1585;1375;bigram
+082010;45;544;word
+participação;1335;15;word
+sistemas;274;130;word
+282010 linha 3;1412;577;triGram
+águas em aeroportos;2048;163;bigram
+contaminantes;161;38;word
+módulo;130;512;word
+482010;899;94;word
+mctcnpqmeccapes;2173;250;word
+172005 apoio;791;297;bigram
+edital 412010 faixa;1209;74;triGram
+janabr2005;2013;204;word
+obtenção de formas;704;18;bigram
+tecnologica;1185;509;word
+282006 geração;195;400;bigram
+biodiesel linha;1625;34;bigram
+tecnologico;1784;112;word
+tendencias;270;356;word
+0322005;1232;119;word
+peptideos;1362;4;word
+192006 exploracao;1149;63;bigram
+mctcnpqctinfra;462;23;word
+pesquisadores em congressos;1976;6;bigram
+apoio a infraestrutura;1733;13;bigram
+ctsaude 2004;2312;3;bigram
+mctcnpqcthidro 392006 taxonomia;961;93;triGram
+482006 promoção;1541;40;bigram
+distância em nivel de especialização;2187;8;triGram
+institucional;891;8609;word
+agroecologia;255;115;word
+estados;1693;1580;word
+pesquisa 2 carvao;1277;57;triGram
+pd em metrologia;424;60;bigram
+produção;409;785;word
+nº 262008;1366;57;bigram
+mctsepincnpqfinep;5;181;word
+transformação;2228;73;word
+642008;1181;2;word
+642009;217;207;word
+out2007;2126;7;word
+setdez2005;1458;315;word
+ctpetroctamazonia;769;82;word
+nanotecnologia 052009;1956;215;bigram
+aplicados;1785;112;word
+1 levantamento;1912;8;bigram
+0292004;385;151;word
+hipertensao;1995;7;word
+inovação;455;13841;word
+mctcnpqsecisfundacoes;215;207;word
+pesquisa em cti;1612;31;bigram
+mctfinepctinfra;1768;5338;word
+pesquisas em cianotoxinas;261;28;bigram
+gaseificação;640;112;word
+projetos de tecnologias;540;220;bigram
+integrados;890;65;word
+câncer;506;75;word
+agropecuaria;582;18;word
+natural;340;382;word
+ensino;1216;1652;word
+capacitacao de agentes;2109;91;bigram
+participação de pesquisadores em congressos;1975;6;triGram
+inform;1676;609;word
+estudo;380;475;word
+3 apoio;864;126;bigram
+2 pesquisa;1386;294;bigram
+agodez2004;328;351;word
+comercialização;2229;73;word
+4 defesa;1320;372;bigram
+terapias;207;92;word
+022010;1454;1047;word
+mctcnpqctsaude 112006;632;17;bigram
+transição;536;201;word
+0462010 cooperacao;1797;30;bigram
+engenharia;1215;1652;word
+bolsa de formação;1567;2;bigram
+pesquisa sobre polinizadores;1380;14;bigram
+petróleo e gás;332;382;bigram
+fenômenos;2016;790;word
+subvenção;1004;7538;word
+mctcnpqctagronegocio 172010;921;72;bigram
+2 cadeia;783;163;bigram
+462009 linha;1000;297;bigram
+água em unidades;815;238;bigram
+areas;615;1605;word
+formação de rh;1477;25;bigram
+182006 estudo;708;182;bigram
+mctcnpqctmineral;268;288;word
+2 alimentacao;62;229;bigram
+mctcnpqctagronegociocthidro 272008;812;238;bigram
+cthidromctcnpq 142005 formacao;662;76;triGram
+jan2008;1880;54;word
+012003 nanotecnologias;410;167;bigram
+mctcnpqctaquaviario;103;47;word
+ctsaudemctcnpqms;1254;123;word
+edital 172008;111;136;bigram
+3 atividades;1999;39;bigram
+biodiesel via rota;298;87;bigram
+construcao;107;47;word
+ctenergcnpqproset;935;61;word
+agentes gestores;2110;91;bigram
+112008;1106;106;word
+apoio ao patenteamento;775;227;bigram
+032006 jun2007;2165;7;bigram
+112002;175;664;word
+112006;634;17;word
+112007;569;389;word
+112005;466;954;word
+mulher;312;298;word
+662009 bionorte;1486;55;bigram
+ctagronegocio;1547;57;word
+brasilsuica;988;20;word
+capacitação em hidrometria;1297;89;bigram
+etanol e biodiesel;978;352;bigram
+132006 ctamazoniactenerg desenvolvimento;648;238;triGram
+4 saúde;2256;84;bigram
+valecnpq;1356;39;word
+ibas;2196;20;word
+seguranca;1162;82;word
+diversas;1352;13;word
+mctcnpqctagroctbio 392007;974;352;bigram
+água;351;1251;word
+promove;1214;3018;word
+272009;1926;14;word
+etanol;982;491;word
+272005;121;264;word
+apoio a gestão de incubadoras;2031;105;triGram
+15000000;88;4280;word
+edital 042010;685;247;bigram
+brasil;927;287;word
+mctcnpqctverde e amarelo;884;16;bigram
+362008 hipertensao;1993;7;bigram
+unidades;821;238;word
+seguranca alimentar e nutricional;1158;82;triGram
+transporte aquaviario e construcao;100;47;triGram
+previsao;1725;37;word
+mctcnpq 122006;356;750;bigram
+nordeste de biotecnologia;509;508;bigram
+vinculados;494;1868;word
+plano;987;20;word
+b grupo;618;147;bigram
+072005 linha 2;2115;196;triGram
+072005 linha 3;2067;76;triGram
+072005 linha 1;2023;257;triGram
+fixação;771;249;word
+revitalização;832;245;word
+cnpqctpetroctamazoniactinfoctaquaviario 0322005;1230;119;bigram
+cthidroacao;992;101;word
+pesquisa em leveduras;1777;61;bigram
+mctcnpqctbioctsaudemssctiedecit;324;170;word
+282010 linha;1414;577;bigram
+habitare;1148;861;word
+pesquisa em ciências;2064;855;bigram
+agrícolas;376;158;word
+edital 042010 linha;683;247;triGram
+0012003 projetos;757;110;bigram
+programas;495;424;word
+terapêuticos;1513;1123;word
+redes de pesquisa sobre polinizadores;1376;14;triGram
+transporte 022007;2139;311;bigram
+capacitação e extensão;2281;8;bigram
+casadinho;624;319;word
+previsão de clima;2086;1073;bigram
+nº 442010;2263;107;bigram
+set2007;2130;21;word
+intervivencia;472;198;word
+estrategicas;616;1351;word
+presenciais;1434;78;word
+mctcnpqctinfra 032003 preservacao;2293;2;triGram
+452008;520;182;word
+inform e comunicação;1673;609;bigram
+geração e disponibilização;237;388;bigram
+amazonia;1343;57;word
+recursos;669;1741;word
+mctcnpqcthidrommami;830;245;word
+mercados;153;236;word
+humana;72;411;word
+área 5 energia;1815;214;triGram
+humanas;211;92;word
+sanitários;319;102;word
+mctcnpq 592009;1865;24;bigram
+tema 3 atividades;1998;39;triGram
+genetica;1484;70;word
+tematica;1221;367;word
+biotérios 052007;2090;106;bigram
+vocacionais;2097;101;word
+logística;2140;311;word
+mctcnpqcthidro 472006 laboratórios;256;28;triGram
+públicamctfinep;1825;200;word
+ca 102004 bolsas;1653;154;triGram
+síndrome;2149;177;word
+institutos;1560;1698;word
+auxílio;969;394;word
+012009 área 3;1810;558;triGram
+012009 área 4;1316;372;triGram
+012009 área 5;1814;214;triGram
+012009 área 6;1819;298;triGram
+422005 ação;1172;53;bigram
+mctcnpqctagro;315;761;word
+202010 categoria 1;1017;229;triGram
+202010 categoria 2;691;163;triGram
+mctcnpqctsaude 112006 estudo;631;17;triGram
+cnpq;38;5521;word
+negligenciadas;646;167;word
+materiais;547;263;word
+científico;655;238;word
+internacional;131;714;word
+pesquisa 1 cadeia;1263;118;triGram
+0272004 linha;1759;64;bigram
+292006 programa;2035;68;bigram
+transferência de tecnologia;1970;46;bigram
+usos;1727;37;word
+fapergs biocombustiveis de segunda;1418;4;triGram
+sementes;320;102;word
+372006 capacitação;1296;89;bigram
+312007 formacao;1256;68;bigram
+biodiesel;302;1796;word
+estadualdistrital;1417;52;word
+tema 2 alimentacao;57;229;triGram
+482006 seleção;2211;4;bigram
+cnpq 502008;1069;83;bigram
+área 2 biotecnologia;1806;88;triGram
+técnicocientificas;1337;9;word
+gestão de incubadoras;855;368;bigram
+ctagronegocio 20082009;1704;14;bigram
+centrooeste;1996;6;word
+empresas 012005;1146;688;bigram
+empresas 012007;1804;483;bigram
+mctcnpqcthidro 482006 edital;1324;15;triGram
+educação;8;2118;word
+precisão 012008;2084;311;bigram
+prêmio;1686;52;word
+052006 racionalização;346;163;bigram
+sibratec;1709;2943;word
+proninc;2007;564;word
+mctcnpqctagronegocio ação;744;111;bigram
+alimentacao;71;229;word
+telemedicina 092007;1617;358;bigram
+edital 162010;1006;38;bigram
+sifaps 2010;1743;10;bigram
+disponibilizacao de tecnologias;59;229;bigram
+242007 equipamentos;1532;71;bigram
+cnpqfinep 032001 fase;952;26;triGram
+comercialização e consumo;2226;73;bigram
+recarcine;1720;273;word
+012000 faixa;1117;370;bigram
+especialização;1641;33;word
+biblioteca;2144;88;word
+112010;1679;539;word
+ctenergia 2001;2197;27;bigram
+nutricao;1873;20;word
+mctseapcnpqctagronegocio;443;105;word
+obtenção;301;105;word
+vertical;394;14417;word
+112011;2262;8;word
+fapergs;1427;4;word
+60000000;2135;42;word
+memoria;2299;2;word
+universitaria;473;198;word
+formação de rh em biotecnologia;1473;25;triGram
+cthidromctcnpq 122005;1636;38;bigram
+vant 012009;1824;136;bigram
+linha 2 biodiesel;1314;158;triGram
+tema 3 tecnologias;538;10;triGram
+512010 abrangencia;1199;188;bigram
+432009 bicudo;901;2;bigram
+mctcnpqctsaude 0012003 apoio;2232;9;triGram
+técnicocientificos;1544;40;word
+pesquisa desenvolvimento;451;893;bigram
+2 propostas;2148;49;bigram
+agroecológica;537;201;word
+edital 052007;2217;14;bigram
+propostas de projetos;2133;91;bigram
+cancer;1944;2;word
+distancia;1291;11;word
+formacao;668;464;word
+mctcnpqctsaude 0012003;756;119;bigram
+extensão;570;945;word
+empresarial;1927;14;word
+reducao e utilizacao;480;111;bigram
+ovinos;926;72;word
+meteorológicos;2017;790;word
+consolidação;83;220;word
+relações;2042;68;word
+setor de construçã;1206;108;bigram
+122004;2099;2;word
+mobilizadoras;2003;308;word
+conservação;818;485;word
+422007 difusão;658;422;bigram
+242009;1381;14;word
+nº 202010;693;392;bigram
+242007;1535;71;word
+propostas;1441;220;word
+242005;196;154;word
+rebrats;1135;100;word
+1 energia;687;195;bigram
+ciência e tecnologia;2052;1970;bigram
+doencas;1853;10;word
+3 tecnologias;543;10;bigram
+convencional;843;212;word
+popularização;361;1265;word
+facepe;1426;4;word
+mctcnpqctagronegociomda 232008;468;198;bigram
+solicitação de financiamento;1632;211;bigram
+50000000;587;36;word
+zonas;137;165;word
+geração transmissão;197;400;bigram
+272010 rede;1776;61;bigram
+2001 prosab;1074;54;bigram
+3 alimentação;677;77;bigram
+cientificoculturais;219;207;word
+nº 472010;1385;331;bigram
+tecnologias;67;3722;word
+382007;1712;104;word
+nº 202010 categoria;690;392;triGram
+5000100 ate;86;2428;bigram
+evento;2292;3;word
+hídricos;819;591;word
+1 biomassa;288;35;bigram
+152005 popularização;1933;93;bigram
+inovação012010;1674;197;word
+ctinfraestrutura;2303;20;word
+clima e tempo;2087;1073;bigram
+agroecologicos;720;422;word
+posgraduacao;626;147;word
+produção de água;814;238;bigram
+ctmineralmctcnpq 0262004;2156;22;bigram
+biotecnologia cbab;1479;49;bigram
+cooperativos 022004 fase;1953;1231;triGram
+282008;750;113;word
+mctcnpq 072006;490;212;bigram
+282006;200;400;word
+precisão;2085;311;word
+mctmcidadesfinepat;52;491;word
+pragas;1916;8;word
+1 segurança;1499;114;bigram
+edital 572008 categoria;497;301;triGram
+032006 jan2008;1879;54;bigram
+572010 genetica;1482;70;bigram
+mctfinepfndctsub;1817;214;word
+disponibilização;242;977;word
+3 evte;1572;240;bigram
+mctfinepme;2054;396;word
+processo;300;87;word
+032006 set2007;2129;21;bigram
+previsão;2015;1863;word
+act 122007;1402;78;bigram
+cartaconvite;41;1153;word
+mctfinepms;1893;63;word
+41 núcleos;773;76;bigram
+nº 112011 cbab;2258;8;triGram
+ctagronegocios 2002;1120;105;bigram
+mctcnpq 062006;763;82;bigram
+cianotoxinas;265;28;word
+3 saúde;1813;558;bigram
+602010 cbab;1770;20;bigram
+mctcnpqcthidroseappr;917;221;word
+categoria;84;884;word
+área 4 saúde;2255;84;triGram
+342007;612;1079;word
+342008;644;167;word
+digital;1863;424;word
+cnpq 012001;182;298;bigram
+escritorios;931;58;word
+ciência;1460;3614;word
+fontes alternativas;553;249;bigram
+redes tematicas para ampliacao;1384;294;triGram
+componentes 052004;2143;88;bigram
+tema 1 capacitacao;1307;54;triGram
+ctbiotecnologiamctcnpqmssctiedecit;194;154;word
+previsão de fenômenos;2014;790;bigram
+mctcnpqcthidro 012003;941;204;bigram
+projetos;241;23796;word
+cthidro 482006;2210;4;bigram
+cthidro 482006 seleção;2208;4;triGram
+032010;785;196;word
+pesquisa 3;1951;33;bigram
+pesquisa 2;782;341;bigram
+pesquisa 5;1087;80;bigram
+pesquisa 4;1111;52;bigram
+ctpetro estudos;1468;18;bigram
+cnpq nº 112011;2257;8;triGram
+mctfinepmssctiedecit;1788;725;word
+mctcnpqctagro 242009;1377;14;bigram
+genômicos;1713;104;word
+legal;407;47;word
+fruticultura;345;264;word
+núcleos;776;605;word
+nº 632008;847;236;bigram
+mctcnpqctinfractpetroacao;622;319;word
+c de r5000001;2200;620;bigram
+0572009;1958;2;word
+412010;1212;74;word
+mctcnpqcthidro 472006;258;28;bigram
+científicos;2214;4;word
+012010 área 4;2254;84;triGram
+fineppadctcenpesbidsinapadanp;1983;15;word
+cbab;863;113;word
+área 5;1683;333;bigram
+área 4;1319;456;bigram
+área 6;1821;358;bigram
+área 1;1672;609;bigram
+mctfinepmec;994;285;word
+área 2;1807;127;bigram
+prosetctinfomctcnpq;865;53;word
+processos;719;584;word
+empresa;1465;1051;word
+genoprot;1449;829;word
+312008;1481;25;word
+312009;1024;90;word
+agricultura de precisão;2083;311;bigram
+022004 fase;1955;1231;bigram
+culturas de ciclo;746;113;bigram
+312006;511;508;word
+312007;1260;68;word
+302007;1288;29;word
+telemedicina;1618;707;word
+voltadas;254;115;word
+302008;584;139;word
+nº 062011 casadinhoprocad;2170;250;triGram
+mctcnpqctinfra 022003;460;21;bigram
+edital 052010;1085;277;bigram
+levantamento de pragas;1913;8;bigram
+produtivos;275;1750;word
+eventos excepcionalidades;1548;401;bigram
+1 cursos;1638;25;bigram
+ctenergmctcnpq;384;448;word
+3 biotecnologia;2267;27;bigram
+melhoria;798;102;word
+laboratorial 102010;1668;158;bigram
+ctmineralmctcnpq 0272004 linha;1757;64;triGram
+ctamazoniamctcnpq 272005;117;264;bigram
+edital 152008 demanda;1136;335;triGram
+242008;601;156;word
+linha de pesquisa;286;854;bigram
+produção de etanol;977;352;bigram
+propostas para promoção;2212;4;bigram
+laboratórios de inovação;1503;1062;bigram
+ctbiotecnologiamctcnpq 212005;1250;229;bigram
+sepincnpqfinep;454;781;word
+mctcnpqctinfrageoma;1857;12;word
+defesa;1183;493;word
+pappe;1840;414;word
+2010 ai;1397;2;bigram
+mctmesacnpqctagronegocio;374;272;word
+mctcnpq 412008 cbab;859;36;triGram
+2 bacia;1224;19;bigram
+mctcnpqcthidroana;2078;109;word
+pesquisa;122;38678;word
+202010 categoria;694;392;bigram
+terra;1728;37;word
+mctcnpq 472008 caracterização;1620;34;triGram
+projetos de capacitação;829;23;bigram
+linha 1 núcleos;1030;151;triGram
+metabólica;2150;177;word
+redes de centros;1717;443;bigram
+12 2006;2162;5;bigram
+transporte;105;660;word
+grupos de pesquisa;119;1564;bigram
+472010;1388;331;word
+022004 fase 2;1954;1231;triGram
+inovação012009;1735;432;word
+cnpq nº;2259;8;bigram
+hidrometria para gestão de recursos;1294;89;triGram
+mctmesacnpqctagronegocio 012003 tema;365;272;triGram
+gestão de recursos;1299;127;bigram
+especificos;1026;36;word
+562008 tendencias;266;153;bigram
+arranjos;344;1232;word
+assistivas 092005;1188;497;bigram
+obtenção de biodiesel via rota;293;87;triGram
+282010;1416;577;word
+leite;167;435;word
+estudos e eventos;1469;21;bigram
+terapia;114;178;word
+disponibilizacao de tecnologias para inclusao;56;229;triGram
+modernização;1559;1698;word
+envelhecimento;97;26;word
+residuos tema 3;574;16;triGram
+342008 doenças;643;167;bigram
+632008;850;236;word
+área 3 saúde;1811;558;triGram
+312009 tema 2;1019;36;triGram
+rurais;822;277;word
+apropriadas;535;274;word
+produtiva;338;813;word
+mctcnpqfndct 652009 entidades;876;41;triGram
+312008 cursos;1475;25;bigram
+rbtmctfinep 012003;1749;202;bigram
+0212009;873;46;word
+media empresa;2314;2;bigram
+saude;98;234;word
+3 cursos;1431;10;bigram
+qualidade de biodiesel;1624;34;bigram
+aplicações;2002;308;word
+pesquisa em contaminantes;158;38;bigram
+meccapesmctcnpqfinep;611;1079;word
+ctverdeamarelo;958;300;word
+ctaquaviario;1506;12;word
+372006;1300;89;word
+372005;1582;92;word
+distância;9;2012;word
+582009;96;14;word
+nano;1066;323;word
+act 062009;2127;2;bigram
+disponibilizacao;66;229;word
+582005;1648;56;word
+mctcnpqfapeam;1420;4;word
+fotovoltaica;1114;52;word
+b de r2000001 a r5000000;2181;1192;triGram
+cadeias;165;189;word
+tratamento;1537;71;word
+malaria;1104;24;word
+2 agregacao;144;185;bigram
+032007;1605;790;word
+032006;1466;1302;word
+032005;2051;402;word
+032004;1566;658;word
+032003;590;638;word
+032002;1040;386;word
+032001;957;8057;word
+472006 laboratórios;259;28;bigram
+água e saúde;518;182;bigram
+mctcnpqctagronegociomda;470;198;word
+mctcnpqctsaudemssctiedecit 342008 doenças;641;167;triGram
+bioprodutos;2070;177;word
+3 energias;1952;33;bigram
+2 grupos;445;109;bigram
+micropropagação;2155;12;word
+naval;108;457;word
+mctcnpqctagronegociocthidro 272008 conservação;810;238;triGram
+ortopédicos;1577;424;word
+032006 ago2007;1963;50;bigram
+edital 112008;1105;106;bigram
+programa de apoio;449;781;bigram
+social;69;1796;word
+incremento;1063;57;word
+tema 1 seguranca;1157;82;triGram
+mctcnpqctamazonia;278;688;word
+mctcnpq 142008;54;5082;bigram
+222007 saúde;307;298;bigram
+282006 geração transmissão;193;400;triGram
+edital 172008 terapia;110;136;triGram
+412009;1562;8;word
+412008;862;36;word
+populacional;1519;12;word
+africa;2195;14;word
+nordeste;512;1252;word
+projeto de pesquisa com subprojetos;1849;1496;triGram
+eventos 2001;1470;18;bigram
+produção de água em unidades;811;238;triGram
+producao;581;136;word
+gestores;2113;91;word
+2009 subvenção;2123;14;bigram
+espacos;218;207;word
+032001 redes;2029;232;bigram
+mctfinep;30;80383;word
+residuos tema;576;16;bigram
+pesquisa em relações;2037;68;bigram
+biodiversidade;406;385;word
+452006 vazão;1046;167;bigram
+mctcnpq 122006 difusão;355;750;triGram
+ctbiotec;19;1504;word
+102010;1671;158;word
+desenvolvimento de banco;1899;2;bigram
+eletrica;689;125;word
+392007 tecnologias;975;352;bigram
+312010;972;370;word
+072009;1844;1084;word
+mctcnpqctsaudemssctiedecit 362008;1992;7;bigram
+2 ate;1401;165;bigram
+processo de obtenção;296;87;bigram
+352006 programa;827;245;bigram
+regiao;1153;63;word
+pesquisa e cooperacao;1734;4;bigram
+operacionais;2063;376;word
+ctinfocthidro;2101;43;word
+cooperacao;1014;526;word
+prosab;1075;931;word
+aperfeicoamento;1290;11;word
+382009;1847;32;word
+482006 participação;1331;15;bigram
+2 energia;2276;39;bigram
+262008 produção;1367;57;bigram
+6 desenvolvimento;2271;60;bigram
+072006;493;212;word
+apoio a projetos de geração;232;388;triGram
+ctinfra;6;32403;word
+bolsas de produtividade em pesquisa;1654;154;triGram
+nº 092010;1408;391;bigram
+2011 ai;2240;9;bigram
+202009 linha;285;92;bigram
+pdpg;180;664;word
+hidrográfica;834;245;word
+182010 ordenamento;1763;67;bigram
+algodão;2119;210;word
+mctmsdecitfinep;1575;424;word
+cttransporte 2002;419;57;bigram
+tema biotecnologia;1527;108;bigram
+infraestrutura de pesquisa;1695;1202;bigram
+442008;807;254;word
+amparo;216;213;word
+produçã;754;111;word
+mctcnpqctsaude 582009;91;14;bigram
+442006;136;131;word
+cadeia de producao;1265;118;bigram
+452006;1047;167;word
+entendimento e previsao;1722;37;bigram
+452009;2193;8;word
+edital 222010;1193;447;bigram
+produtividade em pesquisa;1658;154;bigram
+nº 502010 identificacao;2242;20;triGram
+media;2316;2;word
+alternativas de nutrientes;555;249;bigram
+tema 1 água;733;238;triGram
+sedimentar;1226;19;word
+ae 052007;2169;4;bigram
+572008 categoria 1;498;177;triGram
+mctfinep 032003;1406;496;bigram
+leite 012004;1041;246;bigram
+572008 categoria 2;845;124;triGram
+172008 terapia;112;136;bigram
+412010 faixa;1211;74;bigram
+disponibilização de tecnologias para inclusão;672;315;triGram
+empresas 022002;868;1402;bigram
+esporte 0106;2053;396;bigram
+papes;1312;8;word
+celular;115;420;word
+categoria b;79;86;bigram
+área 6 desenvolvimento;2270;60;triGram
+ctbiotecnologia 2002;2313;3;bigram
+área 4 defesa;1317;372;triGram
+2 utilizacao;482;95;bigram
+082009 transporte;102;47;bigram
+biblioteca de componentes;2142;88;bigram
+visitas exploratorias;1739;36;bigram
+cursos presenciais de curta;1429;14;triGram
+acesso a mercados;147;236;bigram
+142011 faixa;2176;3930;bigram
+programas de melhoramento;838;212;bigram
+ctenergmctcnpq 0292004;382;151;bigram
+realizacao;1741;36;word
+levantamento;405;42;word
+finep;10;26451;word
+ctamazoniactenerg;654;238;word
+apoio a projetos;235;741;bigram
+categoria 2;695;307;bigram
+centrais;1275;42;word
+categoria 1;433;467;bigram
+3 desenvolvimento;2153;12;bigram
+mudancas;1091;149;word
+mctcnpqseapprctagroctfvactsaudecthidro 072008;233;388;bigram
+parceria;1692;6;word
+climaticas climatologia;1088;80;bigram
+562010;1445;99;word
+mctcnpqfndct;879;75;word
+porte;1410;391;word
+micro;1274;42;word
+diagnóstico e tratamento;1534;71;bigram
+012010 área 6;2269;60;triGram
+visitas;1336;45;word
+012010 área 5;1680;119;triGram
+012010 área 2;2274;39;triGram
+012010 área 3;2265;27;triGram
+mctcnpq 022006;73;1333;bigram
+nº 282010;1413;577;bigram
+microeletrônica 012005;1892;216;bigram
+biosegurança;22;35;word
+192006;1150;63;word
+192004;39;979;word
+192005;64;544;word
+192009;911;56;word
+oepas;44;508;word
+ctpetroctamazonia formação;765;82;bigram
+comerciais;932;58;word
+célulastronco;210;92;word
+fndct;742;3492;word
+poupadoras;874;46;word
+subprojetos;1851;1496;word
+pesquisa desenvolvimento e inovação;1987;58;triGram
+0102004;1860;324;word
+cthidroprosabmctfinep;1166;646;word
+592009 peld;1866;24;bigram
+012010 recursos;2272;34;bigram
+0106;2056;396;word
+consolidados;123;179;word
+base;533;512;word
+trasnversal;600;156;word
+produçã de biodiesel;748;111;bigram
+372010;1238;24;word
+sifaps;1744;10;word
+152008 demanda;1138;335;bigram
+projeto;395;13036;word
+412009 academia;1561;8;bigram
+0282004 tema;398;59;bigram
+292007;1225;53;word
+292006;2039;68;word
+292005;1555;199;word
+032001 fase 1;953;26;triGram
+292009;252;158;word
+292008;840;212;word
+372005 ecorregiões;1581;92;bigram
+3 estudos;577;16;bigram
+ctmineral;900;671;word
+mctcnpqcthidrommami 352006 programa;825;245;triGram
+segurança de barragens;1125;217;bigram
+ctenergmmecnpq 032003;588;124;bigram
+edital 062010;1881;16;bigram
+1 pesquisa desenvolvimento;1780;112;triGram
+faixa c;85;2401;bigram
+032006 dez2007;1463;74;bigram
+vanguarda;981;352;word
+cnpq 112002 programa;169;664;triGram
+recebido;628;147;word
+tema 2 seleção;1345;13;triGram
+projetos de cursos de aperfeicoamento;1282;11;triGram
+molecular;2247;20;word
+mctfinepat;1663;687;word
+ctamazoniactenerg desenvolvimento;651;238;bigram
+072010 renorbio;991;101;bigram
+apoio a grupos em consolidação;940;134;triGram
+privadas;1698;1198;word
+país;1545;40;word
+cooperativos 022004;1144;2198;bigram
+segur;1323;372;word
+pesquisa 2 micro;1272;42;triGram
+422008;316;102;word
+422009;1493;55;word
+422007;659;424;word
+disseminação;228;67;word
+422005;1175;53;word
+produtos médicos e biomateriais;1687;167;triGram
+tema 1 catadores;906;43;triGram
+642008 acoes;1177;2;bigram
+ctpetromctcnpq 402004;2236;2;bigram
+422007 difusao e popularizacao;2309;2;triGram
+1 etanol;1002;139;bigram
+desenvolvimento para produçã;747;111;bigram
+022003 tema 3;701;18;triGram
+022003 tema 2;437;43;triGram
+022003 tema 1;591;44;triGram
+102008;2218;2;word
+102007;1924;266;word
+102006;191;1735;word
+102005;1526;264;word
+cthidromctcnpq;666;378;word
+102003;1571;2;word
+242008 agricultura;598;156;bigram
+672009 rebrats;1133;100;bigram
+0222004 tema 3;1997;39;triGram
+0222004 tema 2;141;185;triGram
+0222004 tema 1;716;422;triGram
+40000000;1937;13;word
+442006 zonas;135;131;bigram
+cthidro 2002;788;55;bigram
+astronomia;852;236;word
+sistemas estuarinos;1241;34;bigram
+192010 tema;1159;167;bigram
+qualidade;1245;68;word
+aquaviario;106;155;word
+nivel;1640;33;word
+mctcnpqfndctctacao;1487;55;word
+522009;1940;2;word
+522008;729;58;word
+nanociencia e nanotecnologia;1646;56;bigram
+linha 4;2028;67;bigram
+linha 3;1415;1021;bigram
+linha 2;1179;1250;bigram
+linha 1;1001;1700;bigram
+032006 l1;2167;11;bigram
+áreas;336;392;word
+mineral;273;397;word
+ação 3;1627;34;bigram
+titularidade;1909;8;word
+setor;272;788;word
+edital 052010 linha;1084;277;triGram
+222010 tema b;1192;143;triGram
+coagulação;1895;63;word
+012008 recursos;2044;63;bigram
+442010;2264;107;word
+fins;1942;2;word
+tema 2 cadeia;1876;85;triGram
+cthidroctenerg;1123;46;word
+carne;168;189;word
+ctagrocthidromctcnpq 192005;58;544;bigram
+582009 envelhecimento trabalho;90;14;triGram
+núcleos de apoio ao patenteamento;772;227;triGram
+finepcnpq;2030;232;word
+1 diagnóstico;2277;8;bigram
+programa de cooperacao;1792;34;bigram
+302008 coprodutos;583;139;bigram
+592008;1920;20;word
+pappe integração;1838;356;bigram
+1 redes cooperativas;431;61;triGram
+402007 cooperação;2100;43;bigram
+152010 capacitacao;2108;91;bigram
+cthidro;31;4810;word
+pronex;1103;24;word
+farmacêutica;2138;228;word
+mctcnpqseappr;1368;57;word
+ctbiotecnologia 2010;1922;10;bigram
+transversal;43;65030;word
+área 5 defesa;1681;119;triGram
+ctpetroproset;1097;167;word
+nº 262008 produção;1365;57;triGram
+0342004;1034;197;word
+bacias;1049;676;word
+curta;1435;32;word
+curto;753;113;word
+mctseapcnpqctagronegocio 022003;439;105;bigram
+transferência;1972;46;word
+cursos a distância em nivel;2186;8;triGram
+mctcnpqctpetroctagro;1259;68;word
+universidades;1697;1198;word
+572008;507;301;word
+mctcnpqctagrocthidromapasdcspae 442008 recuperacao;801;254;triGram
+demanda e oferta;2279;8;bigram
+individual;970;301;word
+âmbito;1650;56;word
+elétrica;208;758;word
+nutrientes;560;249;word
+organismos;967;93;word
+rede de pesquisa;157;38;bigram
+042010;688;531;word
+222010 tema;1194;447;bigram
+tema 3 desenvolvimento;2152;12;triGram
+edital 062008 faixa;602;221;triGram
+562008;269;153;word
+empresa 032006 mai2007;2305;3;triGram
+112005 at 1;1586;127;triGram
+linha de acao;1760;64;bigram
+pappe integração 012010;1837;356;triGram
+vazão;1048;167;word
+implantes;1576;424;word
+tecnologias para inclusao;60;229;bigram
+incubadas;1651;36;word
+192010;1161;167;word
+genético;842;225;word
+renorbio;514;609;word
+cthidromctcnpq 122005 gestão;1635;38;triGram
+ecorregiões;1583;92;word
+fase 1;566;135;bigram
+edital 292007;1223;19;bigram
+fase 2;1554;1430;bigram
+edital 292009;907;43;bigram
+0222004;149;646;word
+facilitadores;1872;20;word
+popularizacao;851;238;word
+pesquisa 1;287;348;bigram
+rede de pesquisa em contaminantes;155;38;triGram
+2 micro;1273;42;bigram
+tecnologias de sistemas;1354;34;bigram
+processo de obtenção de biodiesel;292;87;triGram
+fontes;558;249;word
+102009;2283;4;word
+interdisciplinar;2287;6;word
+mctcnpqcthidro 442006;134;131;bigram
+mctseapcnpqctagronegocio 022003 tema;436;105;triGram
+conjunta;4;962;word
+mctcnpqctagromapasdc;163;189;word
+mctcnpqctbiotecnologia;1771;20;word
+102004;1659;154;word
+mctcnpqctsaudemssctiedecit 352008;500;75;bigram
+062011 casadinhoprocad;2172;250;bigram
+232007 criação;1591;10;bigram
+biológicos;2121;260;word
+promoção;1543;44;word
+ctpetromctcnpq 162005;330;382;bigram
+fixacao;1261;68;word
+jogos;995;285;word
+1 seguranca;1160;82;bigram
+atlantico;1848;32;word
+602010;1772;20;word
+medicamentos;1169;720;word
+biodiesel 102006;787;426;bigram
+mctcnpq 462008;294;87;bigram
+proinova;2082;424;word
+392008 arranjos;793;196;bigram
+ctespacial;2160;31;word
+prosul;1068;168;word
+062006;768;3607;word
+062007;1740;96;word
+062004;1304;426;word
+062005;379;1238;word
+mctcnpqcthidro 392006;962;93;bigram
+saúde;25;1490;word
+empresas 102005;1525;264;bigram
+422010;937;32;word
+062008;606;667;word
+062009;1419;6;word
+representativas;2068;430;word
+fomento;1025;353;word
+ctsaudemctcnpqms 0242004;1253;123;bigram
+sustentavel;1270;119;word
+362009;1521;30;word
+362008;1994;7;word
+exploratorias;1742;36;word
+deenvolvimento;1823;298;word
+nanociencia;1649;56;word
+432008 fontes alternativas;550;249;triGram
+acao em areas;608;1079;bigram
+ctbiotecnologiamctcnpq 582005 nanociencia;1642;56;triGram
+construção;1456;302;word
+conservacao;1395;294;word
+congressos e simpósios;1977;6;bigram
+0252004;1124;46;word
+olhando;1935;93;word
+interiores;1247;34;word
+mctcnpqfndct 652009;877;41;bigram
+linhas;1786;112;word
+2 tecnologia;441;43;bigram
+pesquisa 3 energias;1950;33;triGram
+banco de dados;1900;2;bigram
+infraestrutura de pesquisa em universidades;1694;1198;triGram
+422009 rede;1491;55;bigram
+652009 entidades;878;41;bigram
+difusão;360;1172;word
+ctenergmctcnpq 172005;790;297;bigram
+112005 pdi;465;237;bigram
+empresa 032006 jun2007;2164;7;triGram
+cooperacao cientifica e tecnologica;1796;44;triGram
+cnpqfinep 032001;954;26;bigram
+mobilizadores;2317;40;word
+técnico;1836;25;word
+desenvolvimento para produçã de biodiesel;743;111;triGram
+1 água;734;238;bigram
+entendimento;1724;37;word
+432010;1754;6;word
+fapdf;1421;4;word
+ctbiotecnologiamctcnpqmssctiedecit 242005 linha;1107;62;triGram
+232008 programa;469;198;bigram
+formas;705;18;word
+induzidaaqctagronegocio;1949;26;word
+tecnologia 122007;2060;1574;bigram
+252009;888;16;word
+mctcnpqcthidroctsaude;519;182;word
+mctcnpqcthidroctsaude 452008;516;182;bigram
+252005;866;53;word
+mctcnpqctsaude 582009 envelhecimento;89;14;triGram
+0342004 linha 2;1965;46;triGram
+mctcnpqctsaude 242007;1531;71;bigram
+demanda;573;1247;word
+modernit;1558;1709;word
+422008 estabelecimento;313;102;bigram
+proinfra;893;28139;word
+ctbiotecnologiamctcnpq;1251;609;word
+impactos;710;182;word
+162006 cadeia;1339;57;bigram
+consumo;2230;73;word
+biota;1392;294;word
+presenciais de aperfeiçoamento;1834;21;bigram
+empreendedorismo;2020;12;word
+financiamento;1634;211;word
+centros de inovação;1718;443;bigram
+distribuição;204;400;word
+mctfinepmtesenaesfbb;2006;564;word
+redes;386;5205;word
+402008 cadeias;162;189;bigram
+empresa 032006 dez2007;1461;74;triGram
+atividades de cooperacao;1008;256;bigram
+uso e conservação;916;221;bigram
+decorrentes;711;182;word
+publica;1938;1481;word
+cnpqctpetro 012000 faixa;1115;370;triGram
+projetos cooperativos;959;93;bigram
+mctcnpqcthidro 0212009;871;46;bigram
+energia;206;1258;word
+012009 área;1318;1530;bigram
+carcinicultura;1664;507;word
+brasiluniao;1794;34;word
+tematicas;1389;443;word
+producao de biodiesel;1947;2;bigram
+011999;1984;15;word
+572010;1483;70;word
+ctinfraestrutura 2003;2311;17;bigram
+tema 4 levantamento;397;34;triGram
+652009;880;41;word
+1 capacitacao;1309;54;bigram
+eixo;912;413;word
+santo;1229;19;word
+nanotecnologia 032005;2116;239;bigram
+saneamento;1842;1084;word
+452008 água;517;182;bigram
+202006 desenvolvimento;1268;52;bigram
+mctcnpq 132006 ctamazoniactenerg;647;238;triGram
+tecnologias para sistemas;267;62;bigram
+cplp;1239;24;word
+setorial de recursos;2213;4;bigram
+252008;1989;58;word
+mctcnpqseapprctagroctfvactsaudecthidro;239;388;word
+janabr2006;1539;237;word
+financeiro;1012;292;word
+562010 reflora;1443;99;bigram
+organicosecologicos;2231;73;word
+sinat;1669;158;word
+b de r2000001;2182;1192;bigram
+renováveis;1509;291;word
+ctpetromctcnpq;333;443;word
+préincubação;2235;20;word
+costeiras;1249;34;word
+produção de biodiesel;401;91;bigram
+1 catadores;908;43;bigram
+residuos;486;206;word
+serviços;1710;2064;word
+mctfinepfndct;1065;1210;word
+reducao;484;127;word
+celulares;209;92;word
+dados;1903;2;word
+2 biotecnologia;1808;88;bigram
+projetos presenciais de curta;2075;18;triGram
+pesquisa 642009 espacos;212;207;triGram
+bionorte;1490;55;word
+0292004 categoria;432;81;bigram
+exposição;712;182;word
+região;554;16;word
+ctpetroprosetcnpq;2220;2;word
+mctcnpq 592009 peld;1864;24;triGram
+6 deenvolvimento;1822;298;bigram
+caracterização e controle;1623;34;bigram
+292005 programa;1553;199;bigram
+2 projetos;696;411;bigram
+dureza;2221;17;word
+estuarinos;1248;34;word
+072008 apoio;234;388;bigram
+europeia;1795;34;word
+20082009 ai;1705;16;bigram
+tecnologias de gestão;544;10;bigram
+espontanea;1522;97;word
+1 projetos;593;284;bigram
+participação de pesquisadores;1332;15;bigram
+estaduais;1691;498;word
+respiratorias;1854;10;word
+sociais;253;1190;word
+cadeia;337;1244;word
+padrões;318;102;word
+ctagrocthidromctcnpq 192005 extensão;671;315;triGram
+mctcnpqfinep;1928;528;word
+612009;1858;12;word
+atividades;1013;295;word
+produtos;151;1757;word
+0552009;1361;4;word
+012010 área;1682;329;bigram
+tema 2 tecnologia;438;43;triGram
+tecnológicos;727;2605;word
+cnpq 522008;894;14;bigram
+ctsaúdeterapia;1601;135;word
+062006 ctpetroctamazonia;764;82;bigram
+062011;2174;250;word
+062010;53;507;word
+desenvolvimento tecnologico e inovacao;1781;112;triGram
+0342004 linha;1031;197;bigram
+aeroportos 032005;2049;163;bigram
+medicamentos 012003;1167;274;bigram
+2002;421;569;word
+2003;1130;471;word
+2000;418;1348;word
+2001;523;569;word
+2006;2122;68;word
+2007;1930;645;word
+2004;186;3669;word
+252009 circuitos;886;16;bigram
+alcântara;2168;20;word
+2008;1507;106;word
+2009;1702;491;word
+032006 out2007;2125;7;bigram
+332006;638;112;word
+geração;201;788;word
+332008;741;208;word
+332009;2290;4;word
+infraestrutura de ct;2095;447;bigram
+tema bens;2071;99;bigram
+ctsaude 2002;2250;2;bigram
+empresas;33;8623;word
+bioprodutos 022005;2069;177;bigram
+062008 faixa;605;221;bigram
+022003 apoio;77;110;bigram
+segurança e educação;1500;114;bigram
+mctcnpq 422007 difusão;656;422;triGram
+mctcnpq 142010;34;6415;bigram
+componentes;2145;88;word
+cursos para formacao de rh;1882;24;triGram
+agua;875;46;word
+152007;14;8911;word
+152005;1934;93;word
+mctcnpqctverde;887;16;word
+engenharia ensino;1213;1652;bigram
+512010;1200;188;word
+152008;1139;916;word
+fatores;1894;63;word
+pesquisa 4 energia;1110;52;triGram
+tema 1 segurança;1498;114;triGram
+terapeuticos;1943;2;word
+162005;334;382;word
+gestão de bacias;1081;79;bigram
+linha 2 escritórios;1966;46;triGram
+linha de apoio;308;298;bigram
+tema 2 agregação;367;209;triGram
+432009;902;2;word
+432008;557;249;word
+182010;1765;67;word
+informação;456;781;word
+mctcnpqctenerg;199;619;word
+ecológica;534;441;word
+finep 012002;869;1805;bigram
+finep 012001;898;780;bigram
+período;731;1248;word
+132006 ctamazoniactenerg;650;238;bigram
+012003 tema;370;272;bigram
+ctpetro 032000;2249;3;bigram
+ciclo;752;113;word
+oncologia;26;41;word
+fapepi;1423;4;word
+extensão e disponibilização;675;315;bigram
+292008 programas;837;212;bigram
+racionalização;350;163;word
+obtenção de biodiesel;297;87;bigram
+capital;2074;99;word
+mctcnpqctagroctbio;979;352;word
+degradadas;809;254;word
+pública;51;85167;word
+252008 projetos;1988;58;bigram
+apoio a pesquisa;450;849;bigram
+edital 312009 tema;1305;54;triGram
+linha 2 projetos;1176;2;triGram
+mctcnpqctsaude 182006 estudo;706;182;triGram
+2008 ai;1505;68;bigram
+área 6 deenvolvimento;1820;298;triGram
+cthidromctcnpq 142005;663;76;bigram
+mctcnpqctinfo 142007;222;67;bigram
+042010 linha;686;247;bigram
+produtivas;166;189;word
+edital 572008;501;301;bigram
+502010;2245;20;word
+inovação para amazônia;652;238;bigram
+clima;2089;1073;word
+cursos para formacao;1886;24;bigram
+formacao de recursos;665;76;bigram
+tema 1 inovação;1059;57;triGram
+edital 482006 participação;1326;15;triGram
+simpósios;1979;6;word
+desenvolvimento de tecnologias;478;111;bigram
+bens;2073;99;word
+estudos;579;149;word
+capacitação;178;1801;word
+empresa 032006 ago2007;1962;50;triGram
+rede;21;2277;word
+melhoramento;841;212;word
+pragas e estudos;1914;8;bigram
+ctinfraestrutura 2002;2302;3;bigram
+032006 linha 1;1556;459;triGram
+032006 linha 2;2011;581;triGram
+4 energia;1112;52;bigram
+1 ate;1751;95;bigram
+pesquisa 2 cadeia;779;78;triGram
+ctsaúde;1168;316;word
+cnpq 212008;2238;3;bigram
+522008 classe;728;44;bigram
+0262004;2157;22;word
+inovadora;571;437;word
+chamada;2;91673;word
+apoio a projetos de empresas;1643;36;triGram
+integração;1841;356;word
+cursos para formação;1476;25;bigram
+pdntm;230;67;word
+apl´s;1383;287;word
+2 escritórios;1968;46;bigram
+encomenda;18;57862;word
+trabalho e saude;94;14;bigram
+condições de trabalho;797;102;bigram
+espontânea;1140;240;word
+estratégicos;246;1452;word
+parques;726;816;word
+empresa 032006;1462;251;bigram
+archer;2041;68;word
+312009 tema;1021;90;bigram
+012003 apoio;942;204;bigram
+mctsepincnpqfinep 012002;1;181;bigram
+geodinâmica;1981;173;word
+mctcnpqctsaudemssctiedecit 672009 rebrats;1131;100;triGram
+área 3;1812;585;bigram
+mctcnpqprograma;1033;197;word
+ctagronegocio 20082009 ai;1703;14;triGram
+estratégica;2004;308;word
+clínica;1109;1289;word
+112006 estudo;633;17;bigram
+gurh;1039;237;word
+assistiva;363;229;word
+desenvolvimento de tecnologia;2154;12;bigram
+mctcnpqctsaudemssctiedecit 342008;642;167;bigram
+edital;3;82085;word
+ctpetroinovação;1501;49;word
+pesquisa 1 energia;684;195;triGram
+mineracao;1271;52;word
+0292004 categoria 2;2206;20;triGram
+0292004 categoria 1;428;61;triGram
+tecnológico;335;620;word
+mctcnpqpadct;551;16;word
+estudo de neoplasias;377;119;bigram
+classe;732;44;word
+atividades de cooperacao em projetos;1234;12;triGram
+leveduras;1779;61;word
+projetos de geração;236;388;bigram
+mai2007;2307;3;word
+competitividade;2315;2;word
+tema 3 estudos;575;16;triGram
+inclusao;68;229;word
+induzida;1141;581;word
+apls;1027;36;word
+propostas de projetos em rede;2131;42;triGram
+edital 522008 classe;724;44;triGram
+032001 fase;955;26;bigram
+água e inclusão;347;163;bigram
+superior;1437;10;word
+etílica;304;87;word
+r15000000;2203;620;word
+1 propostas;1439;125;bigram
+escritórios de transferência;1969;46;bigram
+mental;597;353;word
+construçã;1208;108;word
+mctcnpqcthidro 452006 vazão;1044;167;triGram
+2011;2241;9;word
+2010;1398;47;word
+econômica;1005;9699;word
+mctcnpqfndct 272009;1925;14;bigram
+animal;679;77;word
+mctcnpqmdasaffndct;599;156;word
+332010;948;272;word
+materias;414;167;word
+apoio a gestão;2032;105;bigram
+apoio a infraestrutura de pesquisa;1732;4;triGram
+052010;1090;444;word
+352010 linha;1218;367;bigram
+cttransversal;1700;53;word
+nº 502010;2243;20;bigram
+fomento a projetos;1023;36;bigram
+brasileiros;723;46;word
+ctpetromctcnpq 162005 pd;329;382;triGram
+mctcnpqcthidro 032003;2105;16;bigram
+desenvolvimento de fármacos;1594;10;bigram
+432008 fontes;552;249;bigram
+152010;2112;91;word
+agricultura;243;1378;word
+conhecimento;1391;294;word
+cnpqmct;2192;8;word
+ctpetróleo;417;1373;word
+tema 1 transição;526;201;triGram
+20082009;1706;16;word
+1 núcleos;1032;151;bigram
+tecnologias para inclusão;676;315;bigram
+cooperativas de pesquisa;383;131;bigram
+eletrônicos;996;285;word
+hidráulicos;2061;162;word
+programa de pesquisa;172;664;bigram
+pesquisa e desenvolvimento;173;774;bigram
+462008;299;87;word
+462009;1003;297;word
+012003 tema 2;366;158;triGram
+pesquisadores em visitas;1333;9;bigram
+012003 tema 1;1497;114;triGram
+brasileiras;139;390;word
+5 energia;1816;214;bigram
+ctpetro 2003;2058;18;bigram
+equipamentos;464;2989;word
+ctpetro 2007;1929;645;bigram
+pniproninc;1773;615;word
+excepcionalidades;1549;401;word
+equivalência;2137;228;word
+mctcnpqctsaude 232007;1590;10;bigram
+ae 052008;2300;2;bigram
+mctcnpqcthidro 442006 zonas;133;131;triGram
+setoriais;882;41;word
+núcleos de apoio;774;605;bigram
+seleção de material;1347;13;bigram
+desenvolvimento de cursos;2077;18;bigram
+pluriatividade;2001;39;word
+202006;1269;52;word
+202007;325;170;word
+potencial;408;34;word
+202005;532;274;word
+092006 ct;1205;108;bigram
+proteoma 2004;1661;388;bigram
+at 2;1578;104;bigram
+at 1;1574;320;bigram
+redes de extensão;1818;461;bigram
+202009;289;92;word
+energias;1508;430;word
+mctcnpqmssctiedecitctsaude 222007 saúde;305;298;triGram
+diagnóstico de demanda;2278;8;bigram
+mctmsfinep ação;1511;1302;bigram
+escritórios de transferência de tecnologia;1967;46;triGram
+502008;1070;125;word
+redes cooperativas;435;61;bigram
+icts;1037;4724;word
+mctcnpqctsaudemssctiedecit 332008 saude;738;208;triGram
+transmissão;202;400;word
+2 tecnologias;251;211;bigram
+inovacao;1186;128;word
+disponibilização de tecnologias de base;525;274;triGram
+polinizadores;1382;14;word
+cthidromctcnpq 132005;1078;79;bigram
+padct;2286;3;word
+mctcnpqctbiocbab n 402009;1884;24;bigram
+2010 apq;1731;12;bigram
+obras mctfinep 032003;1404;496;triGram
+recuperacao de areas;805;254;bigram
+mctcnpqctaquaviario 082009;101;47;bigram
+periurbano;354;163;word
+pesquisa 2 hidrogenio;1801;122;triGram
+cultura;2118;210;word
+bilaterais;986;21;word
+1 tendencias;1619;91;bigram
+aperfeicoamento a distancia;1287;11;bigram
+tecnológica;1062;65;word
+cnpqfinep;956;26;word
+2 produção;2225;73;bigram
+hidrometria;1301;89;word
+mctcnpq 092006 ct;1203;108;triGram
+pesquisa em redes;1387;331;bigram
+pdi em transportes;1056;86;bigram
+empresas 062006;1035;2463;bigram
+ctpetróleo 2001;2273;70;bigram
+592008 linha;1919;20;bigram
+ctpetróleo 2002;2304;38;bigram
+012008 linha;2081;424;bigram
+locais;276;1376;word
+formacao e fixacao;1257;68;bigram
+mctcnpq 682008;1889;10;bigram
+estudos e tecnologias;578;16;bigram
+integração 012010;1839;356;bigram
+tema 3 obtenção;702;18;triGram
+nãoagrícolas;2000;39;word
+042008;2057;1171;word
+cnpq 192004;37;979;bigram
+042004;2025;293;word
+042005;2012;1341;word
+042006;343;3137;word
+cnpq 392008;2253;58;bigram
+042001;1502;49;word
+042002;730;362;word
+ctbiotecnologia;1923;15;word
+gerenciamento;736;71;word
+052009;1959;215;word
+fixacao de recursos;1258;68;bigram
+coprodutos;585;139;word
+tema 3 alimentação;673;77;triGram
+052000;2291;2;word
+052003;836;893;word
+052002;1699;651;word
+052005;895;636;word
+apoio a grupos de pesquisa;489;212;triGram
+052007;2091;124;word
+052006;349;2874;word
+bacia;833;264;word
+locais 2003;2147;80;bigram
+qualificacao;949;272;word
+recesa;1755;6;word
+nov2007;2047;35;word
+difusao;2310;2;word
+062006 ctpetroctamazonia formação;762;82;triGram
+taxonomia;966;93;word
+522009 anticorpos;1939;2;bigram
+reciclaveis;909;43;word
+402009 cursos;1885;24;bigram
+cnpq 112002;170;664;bigram
+42 organizacao;928;58;bigram
+produtos terapêuticos e diagnósticos;1510;1123;triGram
+categoria 1 redes;430;60;triGram
+controle;1629;34;word
+nivel de especialização;1639;33;bigram
+açãotransversal;1302;426;word
+familiar;244;1056;word
+maritima;1227;19;word
+execucao;1015;220;word
+climatologia;1093;80;word
+estruturas;1597;10;word
+ctagromctmdacnpq 202005 disponibilização;524;274;triGram
+centros;1719;911;word
+tema 2 fomento;1020;36;triGram
+mctcnpqctpetro;1495;28;word
+agregacao de valor;145;185;bigram
+mctcnpqseapprctagroctfvactsaudecthidro 072008 apoio;231;388;triGram
+072005 linha 4;2027;67;triGram
+cthidromctcnpq 372005;1580;92;bigram
+162010;1010;38;word
+aquáticas;1584;92;word
+laboratórios;263;1090;word
+médio;1217;1652;word
+182006;709;182;word
+182005;545;220;word
+182004;990;219;word
+192010 tema 2;1875;85;triGram
+192010 tema 1;1156;82;triGram
+dez2007;1467;74;word
+biodiesel sustentabilidade;784;78;bigram
+082005 desenvolvimento;477;111;bigram
+redes de serviços;1708;1688;bigram
+individuais;1442;125;word
+doutorado;1570;2;word
+mctcnpq 132006;649;238;bigram
+herbario;2158;37;word
+projeto de pesquisa;393;12893;bigram
+ctpetroprosetcnpq 082007;2219;2;bigram
+estudo de saúde;595;145;bigram
+mctcnpqctsaude;95;497;word
+072005 linha;2024;596;bigram
+propostas para promoção de eventos;2209;4;triGram
+mctcnpqsecis;849;236;word
+hidrossedimentologia;1083;79;word
+ambiental;786;1162;word
+cientificas;2252;2;word
+162005 pd;331;382;bigram
+tecsa;1891;64;word
+casadinhoprocad;2175;250;word
+mctcnpqctsaude 232007 criação;1588;10;triGram
+mctcnpqctsaudemssctiedecit 352008 câncer;499;75;triGram
+execucao de projetos;1009;220;bigram
+desenvolvimento e inovação;452;781;bigram
+circuitos;889;16;word
+mctcnpqcthidromma;1243;34;word
+002001;187;848;word
+4 levantamento;400;34;bigram
+cesareo;1961;2;word
+mctfinep 042003;1973;543;bigram
+ii regionais e locais;2021;48;triGram
+bioativos;1363;4;word
+duração;1436;32;word
+ctamazônia;1099;522;word
+brasilíndia;2103;43;word
+ctenergcnpq 182004;989;219;bigram
+prospecção;572;109;word
+redes de centros de inovação;1716;443;triGram
+262010;1440;216;word
+incubadoras de empresas;856;368;bigram
+ctagromctmdacnpq;148;920;word
+c de r5000001 a r15000000;2199;620;triGram
+relevante;205;92;word
+mctcnpqcthidro 012003 apoio;939;204;triGram
+edital 152008;1137;916;bigram
+202010;698;392;word
+produtividade;1064;211;word
+ocidental;281;926;word
+122006 difusão;357;750;bigram
+3 obtenção;703;18;bigram
+cursos;1289;146;word
+pesquisa em universidades;1696;1198;bigram
+012002 programa;448;781;bigram
+ampliacao;1390;294;word
+r5000001 a r15000000;2201;620;bigram
+mctcnpqcthidro 0212009 tecnologias;870;46;triGram
+mctcnpqfndctfapsmeccapesprocentrooeste;971;370;word
+sanguínea;1896;63;word
+mctcnpqmssctiedecitctsaude 222007;306;298;bigram
+2010 subvenção;1685;23;bigram
+pesca;1452;745;word
+552008;279;688;word
+comunicação;1677;609;word
+ctbiotecnologia 2010 apq;1921;10;triGram
+222006 proset;913;20;bigram
+envelhecimento trabalho;93;14;bigram
+parto;1960;2;word
+2005;1986;860;word
+mctcnpqctagro 242009 redes;1375;14;triGram
+material;1349;13;word
+formacao de redes de projetos;1745;24;triGram
+mctcnpqcthidro 482006 promoção;1540;40;triGram
+mctcnpq 472008;1621;34;bigram
+mctmesacnpqctagronegocio 012003;369;272;bigram
+proteoma;1662;388;word
+conjuntos;1016;232;word
+edital 302007;1284;11;bigram
+amazônia;280;1055;word
+2009 apq;1715;14;bigram
+cthidro 2010 apq;1729;2;triGram
+diabetes;938;32;word
+mctcnpq 292005;1552;199;bigram
+032010 linha;781;196;bigram
+edital 312009;1308;54;bigram
+manutenção;463;945;word
+ctenergmctcnpq 172005 apoio;789;297;triGram
+pesquisa com subprojetos;1850;1496;bigram
+amarelo;522;302;word
+1 redes;434;61;bigram
+2001prosab;2104;14;word
+ctaquaviário;1516;1993;word
+microrganismos;1871;20;word
+272008 conservação;813;238;bigram
+papel;1393;294;word
+mudanca;1908;8;word
+142007 programa;223;67;bigram
+regionais;2022;48;word
+aeroespacial;1028;253;word
+tecnologias de vanguarda;976;352;bigram
+criação;1596;10;word
+nacional;132;1244;word
+cursos a distância;2188;8;bigram
+mctcnpqcthidro 452006;1045;167;bigram
+1 processos;718;422;bigram
+2 fomento;1022;36;bigram
+1 inovação;1060;57;bigram
+tecnologicas;271;356;word
+tecnologias de base;529;274;bigram
+0012003;759;119;word
+pesquisa 1 biomassa;283;35;triGram
+proset;156;436;word
+nutricional;1164;82;word
+rede biosegurança;13;35;bigram
+182009;1057;86;word
+estabelecimento;317;102;word
+nº 632008 popularizacao;846;236;triGram
+rota;303;87;word
+apoio a grupos;78;526;bigram
+duração de nível;1432;14;bigram
+mctcnpq;12;32280;word
+cthidromctcnpq 152005 popularização;1931;93;triGram
+faixa a ate;2177;2118;bigram
+aquaticos;968;93;word
+172008;113;136;word
+172004;47;455;word
+172005;792;297;word
+172006;1518;12;word
+ctagro;342;1099;word
+identificacao;2246;20;word
+india brasil e africa;2190;14;triGram
+mctcnpq 062006 ctpetroctamazonia;761;82;triGram
+162008;623;319;word
+edital 032010;780;196;bigram
+0342004 linha 1;1029;151;triGram
+mctcnpq 092009;1100;24;bigram
+2 cursos;1832;33;bigram
+mctcnpq 092006;1204;108;bigram
+202007 bioinova;323;170;bigram
+edital 032010 linha;778;196;triGram
+produção e manutenção;1609;31;bigram
+162006;1341;57;word
+programa de apoio a pesquisa;447;781;triGram
+pósgraduação;496;212;word
+auxilios;839;36;word
+clinica;1485;340;word
+acoes;1182;2;word
+rotas;1828;106;word
+producao e uso;1266;118;bigram
+inmetro;2222;17;word
+mctcnpqcthidro;80;939;word
+consolidado;627;147;word
+climaticas;1092;149;word
+edital 202009 linha;282;92;triGram
+ação;185;45628;word
+032003 preservacao;2296;2;bigram
+192005 extensão;674;315;bigram
+ca 102004;1655;154;bigram
+desenvolvimento;177;2905;word
+grupos;82;3413;word
+ctbiotecnologiamctcnpq 0102004;1859;324;bigram
+tema 1 projetos;592;44;triGram
+software;1303;1401;word
+ctsaudemctmscnpq 0302004;1071;130;bigram
+10000000;1222;391;word
+redes de pesquisa;1379;14;bigram
+632008 popularizacao;848;236;bigram
+ctfva;412;9059;word
+r5000001;2202;620;word
+r5000000;2185;1192;word
+banco;1902;2;word
+entidades;881;41;word
+neoplasias;381;119;word
+1 pesquisa;1782;112;bigram
+mctcnpqctagrocthidromapasdcspae;806;254;word
+hidrossedimentologia e gestão;1080;79;bigram
+sul e mudancas;1845;32;bigram
+estruturantes;2010;2707;word
+582009 envelhecimento;92;14;bigram
+ctpetróleo 2000;416;1148;bigram
+norte;556;742;word
+mctcnpqmssctiedecitctsaude;310;310;word
+ctpetróleo 2003;2223;28;bigram
+352008 câncer;502;75;bigram
+agregação;375;209;word
+fundo;2215;4;word
+pediátrica;27;41;word
+especiais;594;50;word
+edital 362009;1905;6;bigram
+hidrográficas;1050;246;word
+cientifica;1184;48;word
+tema;70;6763;word
+aquicultura;1453;1266;word
+pesquisa 642009;213;207;bigram
+0462010;1798;30;word
+etapa;892;99;word
+tema 2 produção;2224;73;triGram
+universal;15;33228;word
+finep 032001;1602;7799;bigram
+042006 arranjos;341;264;bigram
+edital 592008 linha;1917;20;triGram
+132005 hidrossedimentologia;1079;79;bigram
+patenteamento;777;227;word
+cnpqmct 452009;2191;8;bigram
+vant;1827;136;word
+mctcnpq 182009;1054;86;bigram
+2 desenvolvimento;1898;2;bigram
+mctcnpqcthidro 022003;76;110;bigram
+4 melhoria;796;102;bigram
+edital 122008;1357;56;bigram
+mctcnpq 182005;539;220;bigram
+virtual;2159;37;word
+categoria 2 projetos;692;183;triGram
+142011 faixa c;2198;620;triGram
+4 ate;1219;72;bigram
+adaptado;1351;13;word
+francisco;835;245;word
+mctmpafinepctagroinovação em pesca;1450;745;bigram
+mctcnpqctaquaviario 082009 transporte;99;47;triGram
+122005 gestão;1637;38;bigram
+convite;29;9685;word
+anteriores;630;147;word
+132005;1082;79;word
+132006;653;736;word
+mctcnpqmcidades;1753;6;word
+372010 cplp;1236;24;bigram
+agregação de valor;372;209;bigram
+mctcnpqmapasda;1180;2;word
+acadêmicos;179;664;word
+2000100;49;4511;word
+projeto tendencias;1783;112;bigram
+cursos presenciais;1833;21;bigram
+setorial;2216;4;word
+ctsaudemctcnpq;378;295;word
+292009 tema 2;248;115;triGram
+rural;919;221;word
+292009 tema 1;905;43;triGram
+faixa;17;33685;word
+suporte;1599;10;word
+finep 032002;1038;237;bigram
